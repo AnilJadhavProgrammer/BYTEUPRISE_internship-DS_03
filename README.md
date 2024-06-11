@@ -41,8 +41,6 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone
-
      https://github.com/AnilJadhavProgrammer/BYTEUPRISE_internship-DS_03
 
     ```
