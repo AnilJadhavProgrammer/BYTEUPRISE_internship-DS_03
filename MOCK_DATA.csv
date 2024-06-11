@@ -1,0 +1,1001 @@
+date,time,latitude,longitude,city,weather_condition,road_condition,severity,contributing_factor,traffic_condition,vehicle_type,age,gender
+9/18/2014,5:16 AM,40.7463865,-8.7008962,Torreira,sunny,dry,high,speeding,heavy,SUV,61,Male
+3/17/2014,9:03 PM,35.8523575,66.5223902,Sang-e Chārak,rainy,icy,low,distracted driving,light,motorcycle,52,Male
+4/23/2003,9:58 PM,16.9022,121.76191,Minante Segundo,rainy,icy,low,distracted driving,light,SUV,73,Female
+10/19/2001,12:11 AM,32.165,108.8822222,Daba,cloudy,wet,high,weather conditions,heavy,sedan,21,Male
+3/22/2006,7:08 PM,16.2524136,120.4835109,Inabaan Sur,rainy,wet,high,speeding,light,SUV,94,Male
+11/17/2011,1:08 PM,29.476705,121.869339,Xiangshan,rainy,dry,medium,weather conditions,light,sedan,18,Male
+7/5/2007,6:16 PM,18.0559583,106.2992912,Kỳ Anh,rainy,dry,high,weather conditions,heavy,SUV,92,Male
+7/10/2004,12:10 PM,35.9676772,126.7366293,Kunsan,cloudy,icy,low,speeding,light,sedan,70,Female
+11/19/2020,10:47 PM,57.9258984,59.970317,Krasnogvardeyets,snowy,dry,high,weather conditions,heavy,truck,93,Female
+9/2/2012,3:34 AM,52.2445931,104.2483085,Irkutsk,cloudy,wet,high,weather conditions,heavy,motorcycle,81,Male
+4/14/2019,8:33 PM,38.7233591,-9.4052043,Bairro de Santo António,cloudy,icy,medium,distracted driving,heavy,motorcycle,24,Female
+1/10/2005,9:04 PM,-23.8139412,-47.4098328,Piedade,snowy,wet,high,distracted driving,moderate,sedan,74,Agender
+10/30/2009,4:19 AM,-6.9775856,110.5424021,Bulusari,rainy,icy,low,weather conditions,heavy,sedan,66,Female
+1/7/2022,5:55 AM,-8.401854,114.118103,Tegalsari,sunny,icy,low,weather conditions,light,motorcycle,19,Male
+11/12/2005,1:15 AM,13.29664,123.756628,Malilipot,rainy,snowy,low,weather conditions,moderate,truck,41,Female
+10/9/2021,7:31 AM,-27.574998,-50.1626664,Palmeira,sunny,icy,low,weather conditions,heavy,sedan,67,Female
+2/24/2002,7:09 AM,54.2866841,48.2335118,Ulyanovsk,cloudy,wet,high,weather conditions,heavy,sedan,48,Male
+4/15/2011,4:44 PM,49.6106567,18.735973,Hrádek,snowy,icy,low,distracted driving,light,SUV,63,Female
+4/14/2012,11:40 AM,32.31,-106.78,Las Cruces,snowy,snowy,low,distracted driving,light,motorcycle,70,Male
+3/31/2018,6:15 PM,39.3046388,23.2207655,Neochóri,rainy,icy,medium,distracted driving,heavy,truck,56,Female
+4/20/2010,7:11 AM,37.7621762,-25.5651478,Cabouco,snowy,snowy,low,distracted driving,moderate,sedan,83,Female
+1/16/2004,2:12 AM,32.910459,119.85254,Xinghua,sunny,icy,medium,weather conditions,heavy,truck,67,Male
+4/20/2005,11:14 AM,41.7811503,-8.6240851,Lameira,cloudy,icy,high,speeding,moderate,sedan,52,Male
+8/30/2021,12:25 AM,-7.3463033,108.2807559,Margabakti,sunny,snowy,high,speeding,heavy,truck,79,Male
+5/12/2009,9:35 PM,-6.9014042,106.8370122,Lembursawah,cloudy,dry,high,distracted driving,moderate,motorcycle,67,Female
+9/16/2021,12:29 PM,-29.8801552,-54.8265622,Cacequi,rainy,snowy,low,distracted driving,light,SUV,35,Male
+3/2/2013,3:14 PM,-15.6093293,-72.0896229,Colca,snowy,wet,medium,distracted driving,heavy,sedan,96,Agender
+9/8/2021,5:39 AM,13.5167584,99.9541293,Damnoen Saduak,rainy,dry,high,speeding,heavy,sedan,36,Male
+4/5/2008,5:56 PM,13.5699981,-14.5611573,Karantaba,snowy,icy,high,distracted driving,moderate,SUV,43,Female
+5/18/2008,8:59 PM,33.7654607,-84.38709,Atlanta,cloudy,snowy,medium,distracted driving,light,motorcycle,46,Female
+5/27/2021,8:58 AM,1.1706966,33.7098569,Pallisa,snowy,wet,high,weather conditions,moderate,truck,73,Female
+12/17/2013,9:58 PM,55.6735436,12.5736491,København,snowy,dry,medium,weather conditions,moderate,sedan,26,Female
+12/15/2021,11:14 PM,56.0181995,29.9291962,Nevel’,sunny,snowy,high,weather conditions,light,sedan,50,Female
+7/27/2007,7:21 PM,-2.673867,139.7728757,Guay,snowy,icy,low,speeding,moderate,SUV,78,Male
+5/4/2021,3:27 PM,39.761892,116.420331,Jianxin,cloudy,icy,medium,weather conditions,heavy,motorcycle,62,Male
+3/3/2000,1:39 PM,58.3209912,15.1341949,Mjölby,sunny,wet,low,weather conditions,heavy,motorcycle,34,Male
+11/19/2017,4:55 AM,50.5699572,17.1493818,Kamiennik,snowy,icy,high,distracted driving,heavy,sedan,25,Female
+2/18/2013,6:09 PM,50.8853797,21.8569158,Annopol,sunny,icy,medium,distracted driving,moderate,SUV,36,Female
+4/26/2011,1:44 PM,41.3015266,-8.5820391,Vilares,rainy,icy,low,weather conditions,light,sedan,89,Male
+2/20/2006,12:26 AM,14.6425547,121.010151,Ilihan,rainy,wet,low,weather conditions,heavy,sedan,46,Male
+3/12/2022,6:11 AM,37.2425649,111.8568586,Sanxi,snowy,wet,medium,distracted driving,light,sedan,35,Male
+5/8/2011,12:33 PM,50.8075698,21.8528832,Zawichost,snowy,wet,low,speeding,light,sedan,27,Male
+12/17/2006,7:59 AM,59.4907385,33.7584959,Boksitogorsk,sunny,wet,low,speeding,moderate,motorcycle,47,Female
+8/18/2012,5:21 AM,43.5414515,-5.8855146,Aviles,cloudy,wet,low,distracted driving,light,SUV,41,Female
+1/15/2013,10:09 AM,47.013342,89.832786,Turgun,rainy,icy,low,speeding,light,sedan,78,Male
+10/30/2009,4:27 AM,22.9081486,-83.1702597,Bahía Honda,cloudy,dry,low,distracted driving,heavy,SUV,80,Male
+2/13/2022,2:49 AM,47.0202503,-68.1435021,Stockholm,rainy,dry,medium,distracted driving,light,motorcycle,55,Genderqueer
+3/7/2002,11:18 PM,41.8977003,12.5097274,Roma,cloudy,dry,high,weather conditions,light,SUV,38,Male
+1/16/2020,12:44 PM,14.29496,44.68504,Zakhim,rainy,wet,medium,weather conditions,heavy,sedan,19,Female
+4/8/2021,12:09 AM,-0.7351026,8.7591311,Port-Gentil,snowy,icy,low,weather conditions,heavy,truck,58,Male
+5/31/2012,4:13 AM,37.429832,110.88907,Liulin,rainy,wet,low,weather conditions,light,motorcycle,72,Female
+1/24/2021,11:11 AM,35.691878,106.04401,Zhongtai,cloudy,snowy,low,speeding,moderate,sedan,32,Female
+4/4/2011,2:44 AM,52.6396679,-9.4904891,Lucan,cloudy,icy,low,weather conditions,light,sedan,94,Female
+4/9/2002,9:09 PM,8.070619,22.3948737,Ouadda,snowy,wet,high,distracted driving,moderate,motorcycle,96,Male
+8/28/2007,8:47 AM,44.165729,132.7602034,Rettikhovka,sunny,snowy,low,distracted driving,heavy,truck,90,Female
+3/10/2021,5:35 AM,10.16575,166.01022,Wotho,cloudy,dry,high,speeding,moderate,SUV,27,Male
+7/16/2001,4:43 PM,13.7178702,-87.6953979,El Tablón,cloudy,wet,low,distracted driving,moderate,sedan,74,Polygender
+8/11/2018,6:25 AM,-12.266667,-74.95,Huaribamba,rainy,wet,low,speeding,heavy,sedan,44,Male
+1/21/2021,1:57 AM,-3.3259044,-79.8056661,Pasaje,sunny,dry,low,distracted driving,moderate,SUV,54,Female
+9/9/2002,8:19 AM,17.8759173,101.6271544,Chiang Khan,cloudy,wet,high,speeding,moderate,motorcycle,25,Female
+3/19/2010,9:16 PM,30.27,-97.74,Austin,cloudy,icy,high,weather conditions,light,truck,19,Female
+5/15/2005,2:27 PM,-4.0308713,-44.4654609,São Mateus do Maranhão,sunny,snowy,high,speeding,moderate,truck,64,Male
+10/15/2017,2:59 PM,25.575165,111.824739,Zhoujia,rainy,wet,medium,weather conditions,light,SUV,64,Female
+11/5/2011,5:16 PM,45.8892671,0.3046171,Bourg-lès-Valence,snowy,icy,medium,speeding,heavy,SUV,77,Male
+8/6/2003,5:37 PM,27.775323,108.796556,Qinjiang,rainy,dry,high,distracted driving,heavy,truck,22,Female
+7/15/2007,4:42 PM,12.3714277,-1.5196603,Ouagadougou,cloudy,dry,medium,distracted driving,moderate,truck,39,Female
+6/26/2008,6:48 PM,24.690585,115.264971,Xiaozhen,sunny,icy,low,distracted driving,light,SUV,74,Bigender
+5/20/2001,7:58 PM,-8.618134,122.1916328,Wolomarang,rainy,snowy,medium,weather conditions,heavy,SUV,46,Female
+11/11/2016,9:55 PM,39.2166313,77.6012162,Yingwusitang,rainy,wet,low,speeding,light,motorcycle,82,Male
+8/21/2009,3:15 AM,-28.8241753,17.256296,Port Nolloth,cloudy,dry,medium,speeding,light,motorcycle,24,Male
+3/15/2014,9:08 PM,46.239185,130.553343,Huanan,sunny,dry,high,speeding,moderate,truck,82,Male
+3/23/2010,1:11 AM,47.278918,6.07097,Besançon,cloudy,wet,low,speeding,light,sedan,44,Male
+10/23/2016,2:14 PM,18.9398354,96.4343621,Taungoo,rainy,icy,low,weather conditions,moderate,motorcycle,50,Female
+6/16/2006,9:57 AM,53.4917756,29.3327582,Klichaw,sunny,wet,high,distracted driving,moderate,sedan,97,Female
+3/23/2019,3:19 PM,-33.8807097,-57.3694285,Florencio Sánchez,sunny,wet,low,speeding,moderate,truck,44,Female
+1/5/2000,7:30 PM,34.5750415,105.7751383,Changtian,cloudy,wet,low,weather conditions,light,sedan,44,Male
+6/19/2017,9:50 PM,39.932164,116.456946,Nanjie,rainy,snowy,low,speeding,heavy,truck,56,Female
+10/5/2000,1:11 AM,31.220367,121.424624,Changning,sunny,icy,low,distracted driving,moderate,truck,81,Male
+10/11/2015,4:48 PM,24.803563,115.482733,Chiguang,snowy,wet,medium,distracted driving,moderate,truck,42,Female
+9/3/2004,8:15 PM,46.880102,127.507824,Qing’an,rainy,icy,low,speeding,light,SUV,95,Male
+9/6/2015,2:01 AM,37.0734616,-8.7751983,Burgau,cloudy,icy,high,distracted driving,heavy,motorcycle,22,Male
+9/11/2009,10:41 AM,45.8299686,-64.2092372,Amherst,rainy,dry,medium,speeding,light,SUV,61,Male
+9/29/2021,11:33 AM,30.663128,73.6658984,Basīrpur,snowy,snowy,high,distracted driving,heavy,SUV,57,Female
+12/3/2010,4:11 PM,-34.6098701,-58.5668231,San Jorge,sunny,snowy,high,weather conditions,heavy,motorcycle,40,Male
+4/12/2005,1:31 AM,49.99621,19.4374699,Zator,snowy,snowy,high,speeding,light,truck,92,Male
+6/2/2016,3:43 AM,51.2036947,16.1523941,Złotoryja,cloudy,dry,medium,weather conditions,moderate,sedan,21,Male
+4/5/2007,5:06 PM,33.195993,105.606648,Tuanshan,sunny,snowy,high,weather conditions,moderate,SUV,23,Male
+10/6/2013,12:20 AM,51.86318,79.470665,Bastan,cloudy,icy,low,speeding,light,SUV,85,Female
+1/5/2022,10:47 AM,46.294568,17.3742925,Pápa,rainy,icy,low,speeding,heavy,truck,31,Female
+12/2/2019,8:23 PM,41.0213628,-80.6150117,Kalej,sunny,dry,medium,distracted driving,heavy,sedan,27,Female
+11/18/2008,5:56 AM,31.700896,35.9510312,Al Jīzah,cloudy,dry,low,distracted driving,heavy,truck,32,Male
+1/11/2000,8:55 PM,-32.6626805,-58.1295074,San Javier,sunny,snowy,low,weather conditions,moderate,motorcycle,84,Male
+3/27/2021,10:11 PM,51.6710832,19.8078532,Rokiciny,cloudy,snowy,high,distracted driving,heavy,SUV,31,Male
+3/5/2012,10:00 PM,29.689847,121.28259,Xikou,cloudy,icy,low,distracted driving,heavy,motorcycle,42,Male
+1/10/2015,9:08 PM,56.0633738,14.5468659,Sölvesborg,rainy,wet,high,speeding,moderate,truck,21,Non-binary
+4/21/2001,5:47 PM,61.1035855,23.179484,Urjala,snowy,snowy,high,speeding,heavy,sedan,69,Female
+9/25/2013,11:45 PM,14.3705235,120.8168869,Halayhay,rainy,dry,low,distracted driving,light,SUV,73,Female
+5/23/2011,6:43 PM,55.7711903,37.6232011,Urazovo,sunny,icy,medium,weather conditions,moderate,truck,94,Male
+11/29/2016,10:37 AM,-8.6091128,122.7781579,Riangbaring,sunny,snowy,medium,weather conditions,light,SUV,90,Male
+3/29/2020,11:24 AM,-28.7523,19.295048,Pofadder,rainy,dry,low,distracted driving,moderate,motorcycle,38,Female
+12/4/2002,11:55 AM,59.3972707,17.9158275,Spånga,rainy,icy,medium,speeding,light,motorcycle,82,Male
+9/13/2000,9:33 PM,10.277766,123.85681,El Pardo,snowy,wet,medium,speeding,moderate,truck,67,Female
+4/6/2010,6:38 AM,-34.8702993,-71.1664033,Teno,cloudy,snowy,medium,weather conditions,light,SUV,78,Male
+11/10/2015,8:37 AM,24.741184,69.792969,Mithi,snowy,wet,low,speeding,moderate,sedan,65,Male
+12/25/2011,3:46 AM,16.9126068,121.622089,Diamantina,snowy,dry,high,speeding,light,SUV,89,Female
+11/27/2012,6:24 PM,10.1197024,-69.0393069,Sabana de Parra,snowy,dry,high,speeding,moderate,sedan,29,Female
+10/26/2018,4:43 AM,12.6583137,-87.1672193,El Viejo,rainy,icy,high,weather conditions,moderate,truck,72,Agender
+8/5/2020,7:02 PM,41.9339521,74.5404694,Chayek,snowy,wet,medium,speeding,moderate,truck,29,Female
+6/26/2019,12:10 PM,-10.5971,121.8889,Parajara,snowy,dry,low,weather conditions,heavy,sedan,31,Bigender
+7/5/2016,6:43 PM,48.2166359,20.2934524,Ózd,rainy,dry,medium,speeding,heavy,motorcycle,42,Female
+6/25/2005,2:23 AM,16.73333,51.48333,Al Qurḩ,snowy,wet,medium,speeding,heavy,truck,77,Male
+6/16/2017,7:12 AM,1.4862816,124.8381456,Karangkeng,cloudy,snowy,medium,speeding,light,truck,65,Female
+7/11/2014,6:40 PM,-29.3652193,-51.9580164,Arroio do Meio,sunny,dry,high,weather conditions,moderate,truck,50,Male
+12/4/2003,4:52 AM,39.618469,117.407783,Heilangkou,sunny,dry,low,speeding,heavy,truck,24,Male
+7/28/2022,2:00 PM,10.3759416,105.4185406,Long Xuyên,rainy,snowy,medium,speeding,light,SUV,70,Male
+1/15/2000,6:40 PM,39.4365442,-9.2134149,Foz do Arelho,sunny,snowy,low,speeding,light,sedan,64,Male
+7/8/2015,3:57 PM,-8.5262,120.2214,Wunat,cloudy,wet,medium,weather conditions,heavy,SUV,72,Female
+2/28/2019,3:42 PM,1.968543,-157.3936469,Banraeaba Village,cloudy,wet,low,speeding,heavy,truck,64,Male
+7/3/2005,7:09 PM,13.9289816,121.3567739,Paiisa,snowy,wet,low,distracted driving,heavy,motorcycle,30,Male
+1/8/2019,12:36 PM,36.003739,106.287781,Yuanzhou,rainy,wet,high,speeding,light,truck,90,Male
+6/21/2020,9:24 AM,49.8370072,13.5783393,Břasy,snowy,dry,low,weather conditions,moderate,truck,48,Female
+10/1/2004,2:22 PM,36.776357,119.98842,Pingdu,cloudy,dry,low,weather conditions,moderate,motorcycle,36,Female
+10/2/2004,10:45 AM,49.88477,127.5032,Kunheda Woerzu Manzu,rainy,dry,low,distracted driving,moderate,truck,58,Male
+4/20/2017,11:59 AM,7.8357065,-80.3964824,Agua Buena,snowy,dry,low,distracted driving,moderate,motorcycle,30,Female
+3/8/2019,11:23 PM,7.9877141,-10.8479688,Daru,sunny,wet,low,distracted driving,moderate,truck,47,Female
+7/29/2019,4:51 AM,14.5925105,121.0404991,Pilar,cloudy,icy,high,distracted driving,moderate,SUV,21,Female
+9/3/2019,9:33 PM,-12.257739,43.6723087,Hoani,rainy,snowy,high,speeding,moderate,truck,38,Male
+9/29/2022,12:02 AM,34.0112004,71.9795856,Nowshera,sunny,snowy,low,speeding,moderate,truck,27,Male
+3/4/2006,3:11 PM,12.5350875,124.7907837,Bugko,cloudy,icy,low,distracted driving,heavy,truck,26,Male
+1/8/2002,10:46 AM,41.7644599,-72.6729522,Hartford,cloudy,snowy,high,weather conditions,heavy,SUV,64,Female
+2/9/2008,9:48 PM,51.2845164,37.7994394,Staryy Oskol,cloudy,icy,low,weather conditions,moderate,sedan,92,Female
+7/11/2022,11:02 PM,39.6003316,20.3077691,Filiátes,snowy,icy,low,speeding,moderate,SUV,69,Male
+3/12/2015,9:40 AM,-24.5415767,-56.8198691,Itacurubí del Rosario,cloudy,icy,low,speeding,heavy,motorcycle,65,Male
+8/23/2018,5:47 AM,-22.4939375,-47.4294326,Cordeirópolis,snowy,snowy,medium,distracted driving,moderate,SUV,94,Genderfluid
+12/7/2000,9:49 PM,7.9819727,-81.166481,Río de Jesús,rainy,snowy,high,distracted driving,moderate,motorcycle,72,Bigender
+9/21/2000,10:47 AM,-1.7232202,105.471249,Mislak,rainy,wet,high,distracted driving,heavy,motorcycle,40,Male
+4/22/2009,12:27 PM,41.9539849,21.0134768,Brvenica,sunny,dry,low,weather conditions,light,sedan,49,Polygender
+7/25/2019,12:51 PM,41.3389801,-8.1591621,Cimo de Vila,snowy,icy,high,speeding,heavy,motorcycle,74,Female
+3/13/2012,12:46 AM,38.135288,114.397004,Dahe,snowy,dry,low,speeding,heavy,motorcycle,46,Male
+5/7/2012,11:09 AM,16.0641802,108.1873407,Thanh Khê,snowy,snowy,low,distracted driving,light,truck,92,Polygender
+4/1/2006,8:42 AM,45.3106092,41.0495422,Temizhbekskaya,cloudy,wet,low,weather conditions,light,motorcycle,27,Male
+4/21/2003,10:16 AM,-7.13386,113.51997,Temorlorong,snowy,icy,low,weather conditions,light,truck,39,Male
+1/14/2017,8:16 AM,-9.8374219,124.5915966,Anin,snowy,dry,low,distracted driving,moderate,SUV,29,Male
+6/16/2007,4:19 PM,-6.813931,108.1784455,Panyingkiran,snowy,icy,medium,distracted driving,moderate,truck,56,Male
+2/10/2014,8:02 PM,39.975999,116.317558,Huangzhuang,rainy,snowy,medium,speeding,heavy,truck,60,Female
+2/12/2016,5:01 PM,44.0179842,1.3585474,Montauban,rainy,dry,high,speeding,heavy,sedan,71,Female
+8/15/2007,3:00 PM,33.6682421,-117.7659237,Irvine,snowy,snowy,high,weather conditions,light,truck,88,Male
+4/7/2007,10:34 PM,37.0862154,127.0391832,Osan,snowy,icy,low,speeding,heavy,SUV,37,Male
+1/23/2002,10:28 PM,30.531919,117.115101,Anqing,snowy,snowy,high,distracted driving,heavy,sedan,38,Female
+6/8/2002,12:00 AM,28.563927,108.50387,Yanhe,sunny,snowy,medium,weather conditions,heavy,truck,50,Female
+7/8/2002,1:17 PM,32.271335,121.293439,Bingfang,rainy,snowy,low,speeding,heavy,SUV,68,Male
+9/19/2009,4:46 AM,36.0624707,-86.7768273,Nashville,snowy,icy,low,distracted driving,heavy,SUV,90,Female
+1/27/2018,11:44 AM,38.6871727,-9.3264629,Feitoria,sunny,wet,low,distracted driving,heavy,motorcycle,23,Female
+12/2/2003,5:30 PM,49.7287057,20.1353402,Kasina Wielka,snowy,dry,high,distracted driving,light,motorcycle,58,Male
+11/26/2015,5:06 PM,44.8722614,64.764401,Ilyich,snowy,wet,medium,speeding,heavy,SUV,46,Male
+2/8/2010,8:57 PM,36.3063646,127.5712809,Okcheon,cloudy,dry,medium,speeding,moderate,motorcycle,36,Male
+7/16/2003,2:36 PM,46.0474907,-74.2739552,Sainte-Agathe-des-Monts,snowy,wet,medium,weather conditions,heavy,sedan,68,Male
+6/25/2003,2:02 AM,38.2800079,21.8330106,Río,sunny,icy,low,weather conditions,heavy,motorcycle,59,Female
+7/31/2010,7:21 AM,-32.90269,18.7671299,Piketberg,cloudy,snowy,low,speeding,light,truck,55,Female
+11/26/2013,2:15 PM,-6.4525359,-37.4894776,São Bento,snowy,dry,low,weather conditions,light,sedan,69,Female
+2/11/2016,10:14 PM,56.6175886,104.1948978,Zheleznogorsk-Ilimskiy,sunny,icy,low,speeding,light,SUV,56,Female
+10/26/2009,5:42 PM,34.520447,50.0059337,Āshtīān,sunny,dry,low,speeding,heavy,SUV,64,Female
+4/24/2007,9:35 AM,7.2466086,16.4346979,Paoua,rainy,dry,high,weather conditions,moderate,sedan,81,Male
+2/26/2017,1:48 PM,30.015509,73.2192788,Bahāwalnagar,snowy,dry,high,weather conditions,heavy,truck,68,Female
+6/27/2006,2:00 PM,-22.4186285,-50.5745694,Paraguaçu Paulista,snowy,dry,medium,speeding,moderate,truck,42,Female
+4/1/2018,12:46 PM,36.13848,36.61247,Qarqania,rainy,snowy,medium,distracted driving,light,sedan,80,Male
+2/21/2004,10:38 PM,0.6782274,34.1865669,Tororo,cloudy,snowy,medium,distracted driving,heavy,SUV,36,Female
+4/30/2021,4:52 PM,-7.5888579,108.2674092,Lengkongbarang,cloudy,snowy,medium,weather conditions,moderate,SUV,29,Female
+1/4/2019,6:10 AM,-8.2197304,-37.7237678,Custódia,rainy,wet,low,speeding,moderate,sedan,88,Female
+7/15/2006,11:54 AM,37.189822,112.176206,Pingyao,rainy,icy,low,distracted driving,heavy,truck,22,Female
+10/29/2013,6:18 PM,45.1253665,42.0223291,Mayskiy,snowy,icy,low,distracted driving,moderate,sedan,23,Female
+9/6/2021,4:54 PM,52.6052298,48.9659955,Khvorostyanka,sunny,snowy,low,weather conditions,heavy,SUV,46,Male
+1/19/2014,4:00 PM,-25.692754,29.4306557,Botshabelo,rainy,wet,high,speeding,light,sedan,52,Male
+3/2/2021,7:30 AM,16.13422,101.04465,Sanom,sunny,wet,medium,distracted driving,heavy,SUV,45,Male
+4/14/2022,6:18 AM,-8.2665992,113.9774369,Kalibaru,snowy,snowy,low,distracted driving,moderate,SUV,21,Male
+5/4/2004,3:38 PM,9.546837,1.193264,Kara,sunny,icy,low,distracted driving,light,sedan,72,Female
+2/27/2008,3:13 PM,32.7348953,-117.0970596,San Diego,rainy,wet,low,weather conditions,moderate,sedan,92,Male
+10/30/2020,10:26 AM,-23.8611302,35.3411388,Maxixe,snowy,dry,low,weather conditions,moderate,truck,33,Female
+10/29/2022,2:31 AM,49.03201,2.080691,Cergy-Pontoise,cloudy,wet,medium,speeding,heavy,sedan,93,Male
+10/12/2021,1:11 PM,30.368126,102.814531,Baoxing,cloudy,wet,medium,weather conditions,moderate,truck,95,Non-binary
+2/9/2014,10:20 PM,-34.7133717,-58.7231685,Coronda,sunny,wet,low,distracted driving,moderate,sedan,84,Polygender
+2/5/2011,5:07 AM,49.3996493,37.0642852,Savyntsi,rainy,icy,low,weather conditions,moderate,SUV,70,Male
+7/2/2017,5:32 AM,-34.6090822,-56.3628409,Los Cerrillos,sunny,wet,low,distracted driving,moderate,sedan,49,Female
+2/12/2022,5:52 PM,3.2093353,101.6716295,Kuching,sunny,icy,medium,weather conditions,light,truck,43,Genderfluid
+7/14/2015,5:05 PM,7.8005358,-80.7463852,Las Minas,rainy,dry,low,distracted driving,light,sedan,91,Male
+11/20/2006,3:51 AM,47.53708,19.127509,Budapest,sunny,icy,low,distracted driving,moderate,sedan,18,Female
+3/21/2004,4:54 AM,-0.4960508,101.866362,Cerenti,snowy,dry,high,distracted driving,moderate,motorcycle,53,Female
+4/11/2010,7:04 AM,14.3839328,121.050126,Santo Niño,rainy,wet,medium,distracted driving,heavy,SUV,50,Female
+3/27/2015,6:47 PM,7.916433,124.200182,Balindong,rainy,icy,high,speeding,heavy,motorcycle,45,Male
+11/8/2017,2:47 AM,50.5193689,41.6704075,Nekhayevskiy,sunny,icy,low,speeding,light,truck,24,Male
+9/21/2007,4:32 AM,44.1509604,15.5846313,Pridraga,cloudy,icy,high,weather conditions,moderate,SUV,99,Female
+3/27/2007,3:10 PM,30.070453,115.944218,Huangmei,cloudy,dry,low,weather conditions,moderate,motorcycle,45,Female
+9/16/2008,4:26 AM,7.9187344,125.3297787,San Fernando,rainy,wet,high,speeding,heavy,motorcycle,81,Polygender
+4/17/2011,11:54 PM,11.462476,122.7807,Bailan,cloudy,snowy,low,weather conditions,moderate,SUV,29,Non-binary
+5/23/2016,12:28 AM,-5.4736254,104.6471221,Kotaagung,rainy,wet,low,distracted driving,heavy,sedan,60,Female
+11/21/2021,5:59 AM,13.7192,123.6675,Maagnas,snowy,dry,medium,speeding,light,truck,20,Female
+11/24/2018,8:57 PM,-22.5698961,-49.0817124,Agudos,snowy,wet,low,speeding,moderate,SUV,64,Female
+11/12/2001,4:36 AM,53.903083,10.7533775,Lübeck,snowy,icy,medium,speeding,moderate,truck,67,Male
+10/7/2022,11:44 PM,25.2898918,32.5522304,Isnā,cloudy,icy,high,distracted driving,moderate,motorcycle,67,Female
+2/10/2002,6:46 AM,41.0562367,-8.2439651,Fornos,rainy,dry,high,distracted driving,moderate,SUV,25,Male
+6/14/2018,3:22 AM,59.3092322,18.0807273,Stockholm,rainy,icy,high,weather conditions,moderate,truck,94,Male
+1/29/2018,6:37 AM,-7.5450262,111.6556388,Krajan,sunny,icy,low,weather conditions,light,truck,32,Female
+6/16/2010,8:50 PM,25.635605,102.57997,Dasongshu,sunny,snowy,low,speeding,light,SUV,40,Male
+12/5/2010,2:30 PM,-7.3571693,108.1132212,Singaparna,snowy,snowy,high,weather conditions,heavy,sedan,28,Female
+6/22/2020,4:34 AM,35.604681,39.8193219,At Tibnī,rainy,wet,high,speeding,moderate,truck,71,Female
+8/27/2006,9:34 PM,25.9182262,13.9260001,Murzuq,sunny,wet,high,weather conditions,light,truck,69,Male
+10/18/2003,8:18 PM,0.1840524,100.1255164,Lubuk Sikaping,rainy,wet,medium,distracted driving,moderate,SUV,67,Male
+1/6/2020,5:10 PM,-25.979821,-52.5678016,Coronel Vivida,rainy,dry,medium,distracted driving,heavy,sedan,33,Male
+12/2/2006,9:41 AM,27.087637,114.964696,Ji’an,snowy,snowy,high,weather conditions,heavy,motorcycle,55,Female
+10/5/2020,12:55 AM,32.7674911,22.2324406,Al Qubbah,rainy,dry,low,speeding,moderate,truck,49,Male
+4/30/2008,6:03 PM,37.235499,-93.2478638,Springfield,cloudy,wet,high,distracted driving,light,sedan,57,Male
+3/4/2002,9:47 PM,30.961094,113.922251,Pengxing,sunny,icy,high,distracted driving,light,sedan,46,Male
+4/3/2001,11:02 PM,-7.4547836,110.5781567,Ngenden,snowy,wet,high,speeding,light,SUV,23,Female
+8/31/2015,6:12 AM,39.9916667,116.4238458,Fangtang,cloudy,wet,low,distracted driving,light,truck,30,Female
+3/9/2018,2:32 AM,29.60548,111.877499,Jinshi,cloudy,dry,medium,distracted driving,moderate,motorcycle,64,Polygender
+12/23/2013,2:25 PM,29.985295,122.207215,Shouzhan,sunny,dry,medium,speeding,moderate,motorcycle,36,Male
+2/7/2013,8:34 AM,-3.3472662,120.3089541,Bajo,sunny,dry,medium,weather conditions,light,motorcycle,41,Female
+6/15/2003,10:04 AM,-7.1221059,106.5701927,Cihaur,sunny,wet,medium,speeding,moderate,sedan,97,Female
+7/2/2013,6:46 AM,3.649442,-76.567956,La Cumbre,rainy,snowy,high,distracted driving,moderate,SUV,29,Female
+5/21/2020,3:32 PM,13.3913889,-16.6525,Abuko,rainy,wet,high,distracted driving,moderate,truck,97,Female
+4/14/2014,2:28 AM,35.70178,65.23055,Sar Chakān,rainy,snowy,high,distracted driving,moderate,SUV,36,Male
+3/11/2005,1:49 AM,-18.841761,47.703579,Anjepy,cloudy,icy,low,weather conditions,light,sedan,34,Male
+8/4/2016,3:09 PM,52.8208769,21.2097479,Szelków,sunny,snowy,medium,speeding,moderate,sedan,40,Female
+12/30/2014,6:26 PM,59.0295207,10.0664589,Larvik,cloudy,dry,medium,speeding,light,motorcycle,44,Male
+8/20/2003,4:26 AM,28.541342,98.633013,Mainri,rainy,wet,low,speeding,light,motorcycle,90,Female
+8/7/2011,1:47 PM,13.4522814,101.1815568,Phanat Nikhom,snowy,wet,medium,distracted driving,heavy,truck,52,Male
+4/26/2017,6:31 AM,50.0257144,22.3320424,Markowa,cloudy,snowy,high,speeding,light,sedan,87,Female
+11/24/2015,2:21 PM,15.1074513,37.5907446,Barentu,sunny,wet,high,weather conditions,light,SUV,47,Female
+11/21/2013,11:54 AM,11.5484585,8.8583309,Garko,snowy,wet,high,weather conditions,light,truck,43,Male
+8/17/2016,9:12 AM,-26.8947924,-48.6550692,Navegantes,rainy,wet,high,weather conditions,moderate,motorcycle,100,Male
+10/7/2019,1:26 PM,51.857861,16.8415115,Krzemieniewo,rainy,wet,low,distracted driving,moderate,motorcycle,83,Male
+6/14/2003,8:22 PM,33.8446231,36.5499837,Ma‘lūlā,snowy,snowy,high,weather conditions,moderate,truck,49,Male
+6/1/2010,5:27 AM,32.1911268,130.785523,Hitoyoshi,rainy,icy,medium,weather conditions,light,truck,55,Female
+7/30/2009,8:33 AM,-7.7308816,109.9081382,Krajan Tanjungrejo,sunny,dry,medium,distracted driving,heavy,sedan,49,Male
+3/24/2012,11:38 PM,48.94153,-125.54635,Ucluelet,sunny,icy,low,distracted driving,heavy,truck,83,Male
+6/3/2011,8:54 AM,-12.0463731,-77.042754,Llipa,sunny,icy,low,weather conditions,light,sedan,51,Female
+8/9/2015,1:08 PM,36.2268985,27.8561492,Émponas,cloudy,wet,high,speeding,moderate,sedan,66,Female
+11/8/2003,2:49 PM,36.8964803,10.310501,Al Marsá,snowy,snowy,low,weather conditions,moderate,motorcycle,87,Female
+4/7/2018,4:08 AM,44.8307966,37.5521227,Sarany,sunny,icy,medium,distracted driving,light,truck,57,Female
+10/2/2001,7:54 PM,13.6902068,101.0701959,Chachoengsao,snowy,wet,high,speeding,light,truck,68,Male
+7/1/2016,12:36 PM,-5.1463354,119.4106768,Losari,snowy,snowy,low,distracted driving,moderate,sedan,27,Male
+1/31/2019,4:49 AM,22.3287394,-79.2366566,Yaguajay,sunny,icy,medium,weather conditions,light,sedan,97,Female
+10/11/2006,5:00 AM,40.6897403,22.9541166,Efkarpía,rainy,dry,low,speeding,heavy,SUV,65,Female
+5/23/2014,9:34 PM,23.099153,113.810423,Jundian,rainy,snowy,low,speeding,light,SUV,90,Bigender
+12/5/2018,9:57 PM,46.465362,124.670305,Xinglin,snowy,icy,low,speeding,heavy,sedan,22,Female
+12/22/2022,4:10 AM,6.680623,-75.953096,Giraldo,snowy,icy,high,distracted driving,moderate,truck,54,Male
+9/16/2000,10:08 AM,47.7820865,27.930686,Cahul,snowy,snowy,medium,weather conditions,heavy,motorcycle,64,Male
+4/28/2021,9:12 PM,50.3713333,103.2816977,Zakamensk,rainy,snowy,medium,speeding,moderate,motorcycle,39,Female
+5/11/2005,12:13 AM,49.51688,-96.50029,La Broquerie,snowy,wet,low,speeding,moderate,motorcycle,51,Female
+2/10/2007,2:29 AM,23.131797,113.407143,Huangcun,sunny,wet,medium,speeding,moderate,motorcycle,54,Male
+2/18/2008,10:31 AM,49.911732,20.8725617,Janowice,snowy,wet,low,distracted driving,light,SUV,90,Female
+4/15/2022,8:20 AM,40.935502,125.341233,Budayuan,rainy,snowy,low,speeding,light,sedan,21,Male
+5/4/2003,7:14 AM,-9.2759427,119.9357066,Sasar,cloudy,dry,low,weather conditions,light,sedan,32,Male
+10/11/2018,5:09 PM,7.929855,123.6604152,Margos,snowy,dry,low,distracted driving,light,SUV,78,Male
+4/7/2021,4:25 AM,9.0056327,-62.6471664,Temblador,rainy,dry,high,distracted driving,moderate,SUV,90,Male
+9/1/2016,5:52 AM,14.578621,121.0702405,Piña,snowy,icy,high,distracted driving,light,SUV,19,Female
+2/21/2004,5:41 AM,-34.7942024,-58.2622254,Clorinda,snowy,snowy,low,speeding,light,motorcycle,49,Female
+5/29/2012,6:28 AM,26.2354377,32.0029805,Al Balyanā,rainy,wet,medium,speeding,moderate,truck,79,Female
+9/13/2011,2:10 AM,-7.3350849,111.46038,Kalangan,snowy,dry,medium,distracted driving,heavy,SUV,91,Male
+8/15/2022,9:30 PM,55.439054,37.7662154,Yam,cloudy,wet,low,weather conditions,heavy,motorcycle,74,Male
+8/28/2010,8:26 AM,-8.8814738,117.3733989,Tatebal,snowy,snowy,high,speeding,moderate,sedan,82,Genderfluid
+5/12/2017,11:42 AM,30.5651672,31.1578769,Quwaysinā,sunny,wet,low,speeding,light,sedan,91,Female
+9/6/2011,1:47 PM,36.2062933,44.0088697,Erbil,snowy,icy,medium,weather conditions,moderate,sedan,69,Female
+10/28/2011,6:41 AM,23.3790333,113.7632828,Tangdong,rainy,wet,low,speeding,light,SUV,42,Female
+8/10/2005,3:00 AM,-6.162275,106.7883416,Grugul,snowy,dry,medium,weather conditions,light,truck,46,Male
+1/12/2013,12:41 AM,7.0232835,122.1882382,Manicahan,cloudy,wet,medium,speeding,moderate,SUV,27,Male
+12/22/2009,1:06 PM,33.038408,108.247886,Shiquan,snowy,snowy,medium,distracted driving,heavy,sedan,100,Male
+2/10/2021,6:19 AM,55.1264168,39.7951718,Radovitskiy,cloudy,dry,medium,speeding,moderate,sedan,28,Male
+5/12/2020,8:13 PM,38.34,-85.7,Jeffersonville,sunny,snowy,medium,distracted driving,heavy,motorcycle,96,Female
+3/8/2007,6:40 AM,46.344514,129.543632,Yinglan,sunny,wet,medium,weather conditions,heavy,sedan,94,Male
+9/27/2015,10:22 AM,31.2303904,121.4737021,Shanhe,cloudy,icy,low,speeding,heavy,truck,24,Male
+2/18/2006,6:14 PM,34.9136229,98.2113524,Dongxiao,sunny,snowy,low,weather conditions,heavy,SUV,39,Male
+10/9/2014,11:20 PM,52.803304,51.1735574,Neftegorsk,rainy,dry,medium,weather conditions,moderate,SUV,78,Male
+6/29/2000,6:08 PM,39.7539956,-8.7549506,Ferreiros,snowy,dry,high,speeding,light,truck,21,Male
+10/24/2012,12:49 AM,56.7402899,24.7181651,Ķegums,rainy,dry,high,speeding,heavy,SUV,41,Male
+5/21/2001,6:11 PM,-10.95,39.28333,Newala Kisimani,cloudy,wet,low,weather conditions,moderate,sedan,86,Male
+10/20/2004,9:53 AM,41.3532895,-8.2103678,Boucinhas,snowy,snowy,medium,weather conditions,moderate,SUV,86,Male
+12/26/2012,12:35 PM,-7.1508118,111.9075351,Campurrejo,cloudy,icy,high,speeding,light,truck,37,Male
+8/4/2005,3:34 AM,29.731101,116.251947,Qukou,sunny,wet,medium,distracted driving,moderate,SUV,79,Male
+8/30/2013,5:07 PM,30.89205,121.770149,Xiangjiazhai,rainy,dry,low,speeding,light,sedan,35,Female
+3/17/2009,1:26 AM,-8.1539,111.7051,Jajarkrajan,rainy,wet,low,speeding,heavy,SUV,93,Male
+9/14/2018,2:58 PM,51.5598572,-2.3523889,Horton,sunny,wet,medium,weather conditions,light,motorcycle,89,Male
+11/5/2011,12:23 PM,39.4286365,62.8617596,Seydi,cloudy,icy,high,speeding,light,truck,51,Male
+5/3/2010,7:02 PM,39.856317,96.779317,Changma,cloudy,wet,high,distracted driving,heavy,sedan,71,Genderfluid
+8/19/2011,6:06 AM,40.6335427,47.467431,Ağdaş,sunny,dry,low,distracted driving,heavy,SUV,46,Female
+11/23/2019,6:58 AM,24.8138287,120.9674798,Xinzhu,rainy,icy,high,weather conditions,light,motorcycle,49,Female
+4/14/2010,6:43 AM,-8.328331,122.9930557,Ekasapta,sunny,snowy,medium,weather conditions,light,sedan,19,Female
+7/15/2000,12:15 AM,-8.6577711,120.6947522,Mukun,snowy,snowy,high,weather conditions,heavy,SUV,37,Male
+3/2/2000,1:30 AM,9.939624,126.065213,San Isidro,snowy,dry,high,weather conditions,heavy,SUV,42,Female
+8/5/2013,4:01 PM,35.202503,102.521807,Xiaohe,snowy,dry,medium,speeding,light,sedan,39,Female
+9/20/2019,10:24 AM,60.6191114,26.1999237,Lapinjärvi,sunny,wet,medium,distracted driving,heavy,SUV,39,Female
+4/24/2013,1:45 AM,56.0372083,21.8173884,Plateliai,rainy,icy,medium,weather conditions,heavy,motorcycle,42,Male
+4/28/2013,10:52 AM,44.1039762,19.2997218,Srebrenica,snowy,dry,low,distracted driving,moderate,truck,97,Female
+7/28/2000,12:31 AM,6.45843,11.43299,Somié,cloudy,icy,low,weather conditions,moderate,truck,96,Female
+5/24/2007,10:50 PM,45.950582,128.043465,Mulan,sunny,dry,medium,distracted driving,light,motorcycle,39,Male
+11/10/2014,6:32 AM,-0.4829632,15.8936224,Owando,cloudy,icy,high,weather conditions,heavy,motorcycle,75,Male
+3/6/2019,9:07 AM,48.9236625,2.3882228,La Courneuve,rainy,dry,low,distracted driving,light,sedan,51,Female
+2/13/2013,1:52 AM,52.6396679,-9.4904891,Lucan,rainy,wet,medium,speeding,heavy,motorcycle,56,Male
+1/24/2021,5:26 PM,49.4941103,6.0360933,Kayl,sunny,icy,high,speeding,light,SUV,83,Female
+4/4/2000,10:18 PM,10.584981,-62.3037176,Güiria,sunny,snowy,low,distracted driving,heavy,sedan,89,Male
+7/13/2005,9:05 AM,35.6803,51.0193,Shahre Jadide Andisheh,sunny,dry,medium,distracted driving,light,SUV,53,Female
+10/7/2012,8:26 PM,24.803563,115.482733,Chenguang,cloudy,snowy,medium,weather conditions,heavy,motorcycle,77,Bigender
+7/25/2021,5:45 AM,57.7236265,11.7360101,Torslanda,rainy,wet,high,weather conditions,light,truck,46,Male
+6/17/2003,2:26 PM,31.2888328,-7.2396659,Telouet,sunny,wet,high,speeding,heavy,sedan,29,Bigender
+3/9/2021,5:16 PM,32.187849,119.425836,Zhenjiang,snowy,snowy,medium,weather conditions,heavy,truck,75,Genderqueer
+11/7/2004,12:28 AM,31.927317,35.299468,Rammūn,snowy,wet,medium,distracted driving,heavy,motorcycle,70,Male
+12/7/2013,9:59 PM,-37.1534439,-56.8913573,Charata,sunny,dry,low,distracted driving,heavy,sedan,80,Female
+5/5/2021,4:29 PM,-5.98978,-37.9466737,Viçosa,sunny,wet,medium,distracted driving,moderate,SUV,37,Female
+6/1/2006,4:15 AM,49.6246813,19.1833654,Żabnica,cloudy,snowy,medium,speeding,moderate,motorcycle,84,Female
+1/23/2016,11:29 AM,41.866056,-8.4064036,Devesa,sunny,dry,high,speeding,heavy,sedan,42,Female
+5/9/2013,8:06 PM,51.7419091,111.9603596,Mogzon,rainy,snowy,medium,speeding,moderate,truck,33,Male
+1/3/2008,5:34 PM,45.11803,124.823242,Qianguo,sunny,dry,low,distracted driving,light,SUV,32,Polygender
+12/29/2013,4:06 PM,-21.2846176,-48.5316897,Monte Alto,snowy,snowy,low,weather conditions,moderate,motorcycle,59,Male
+8/23/2017,8:07 AM,-15.6500913,-71.6869874,Ichupampa,sunny,icy,high,distracted driving,light,SUV,37,Male
+3/7/2004,6:50 PM,46.562247,125.1353261,Longfeng,sunny,wet,medium,distracted driving,heavy,SUV,86,Male
+5/18/2021,5:40 AM,41.0826078,20.4425942,Qukës-Skënderbe,rainy,wet,high,speeding,light,truck,75,Female
+1/15/2005,2:03 AM,35.3100829,46.3708668,Sarvābād,snowy,wet,low,weather conditions,light,sedan,25,Male
+9/30/2005,10:43 AM,52.596028,22.1470031,Kosów Lacki,cloudy,dry,high,speeding,light,motorcycle,87,Female
+8/7/2011,10:30 AM,49.8376215,18.9439837,Jasienica,snowy,snowy,medium,distracted driving,heavy,truck,86,Male
+7/13/2020,12:25 AM,14.8465342,-88.3032755,Arada,snowy,dry,high,speeding,light,truck,61,Female
+10/22/2002,1:47 AM,11.171783,-70.620384,Capatárida,cloudy,wet,low,distracted driving,moderate,sedan,77,Female
+12/11/2005,1:55 AM,28.1328796,-15.4393074,"Palmas De Gran Canaria, Las",sunny,snowy,high,speeding,heavy,sedan,73,Female
+11/8/2009,10:59 PM,24.1919524,89.9681979,Tāngāil,rainy,icy,low,weather conditions,light,truck,45,Female
+3/7/2008,6:05 AM,45.3639886,5.5949365,Voiron,rainy,wet,medium,speeding,light,motorcycle,97,Male
+12/4/2021,5:24 PM,14.2198555,103.5899733,Sâmraông,cloudy,snowy,high,weather conditions,moderate,sedan,33,Male
+8/11/2020,7:40 PM,45.1099574,40.2950699,Temirgoyevskaya,rainy,dry,high,weather conditions,heavy,motorcycle,31,Male
+9/14/2004,5:32 PM,45.521519,3.5276642,Limoges,cloudy,snowy,medium,speeding,light,sedan,51,Male
+8/23/2009,6:56 PM,48.1510123,-80.0330343,Kirkland Lake,cloudy,icy,high,weather conditions,heavy,sedan,94,Male
+2/28/2004,2:18 PM,-7.8848787,112.6722635,Singasari,snowy,snowy,medium,distracted driving,heavy,sedan,56,Male
+8/14/2021,5:26 PM,17.263531,121.834345,Tumauini,rainy,dry,high,distracted driving,moderate,motorcycle,100,Female
+6/13/2004,8:14 AM,-37.1468126,175.5477294,Thames,snowy,snowy,low,weather conditions,light,sedan,66,Female
+12/27/2018,9:56 PM,64.1272315,-16.014091,Höfn,cloudy,snowy,low,weather conditions,light,SUV,27,Female
+1/28/2002,11:45 PM,-8.219061,128.941023,Laleng,sunny,dry,low,weather conditions,moderate,sedan,32,Female
+6/5/2014,9:15 AM,50.1661085,22.2214748,Rakszawa,snowy,snowy,medium,distracted driving,moderate,truck,64,Male
+10/16/2015,7:28 PM,51.5258667,57.3241614,Kuvandyk,sunny,wet,medium,distracted driving,heavy,motorcycle,99,Non-binary
+1/20/2001,12:05 AM,-11.8648237,43.492161,Foumbouni,rainy,wet,low,distracted driving,light,truck,61,Female
+2/27/2007,10:45 PM,40.83,21.581667,Melíti,cloudy,dry,high,speeding,heavy,sedan,69,Polygender
+3/15/2013,5:15 PM,37.233266,122.456824,Xiamazhuang,rainy,wet,high,weather conditions,light,SUV,68,Female
+4/28/2005,8:44 AM,7.6128972,-66.1474752,Caicara,sunny,wet,high,weather conditions,heavy,motorcycle,79,Male
+9/3/2012,8:55 PM,44.2120433,15.4790862,Posedarje,sunny,snowy,high,speeding,light,motorcycle,84,Female
+10/1/2019,4:06 PM,48.9481767,38.4878774,Syevyerodonets’k,sunny,wet,high,distracted driving,moderate,motorcycle,32,Male
+7/19/2008,4:04 PM,16.733514,-93.0859557,Loma Bonita,snowy,dry,low,distracted driving,light,motorcycle,66,Male
+11/17/2009,12:17 PM,49.7575973,16.6635314,Moravská Třebová,cloudy,icy,high,weather conditions,moderate,sedan,39,Male
+11/24/2019,6:37 PM,38.042805,114.514893,Chejiazhuang,rainy,wet,high,speeding,light,truck,86,Female
+12/8/2000,12:09 PM,18.932625,-70.4079274,San Cristóbal,rainy,snowy,medium,speeding,moderate,SUV,96,Male
+4/7/2010,4:11 PM,57.6900919,11.94588,Göteborg,rainy,snowy,low,distracted driving,moderate,truck,77,Male
+1/10/2008,10:46 PM,34.9128121,-116.6492954,Nashville,snowy,dry,high,weather conditions,light,motorcycle,94,Male
+10/3/2001,8:28 PM,9.231487,29.8005027,Bentiu,cloudy,icy,low,distracted driving,moderate,motorcycle,73,Male
+11/18/2012,1:56 PM,-6.2204747,155.6376301,Kieta,cloudy,wet,low,speeding,moderate,truck,78,Male
+12/23/2002,11:24 AM,27.402484,33.6511438,El Gouna,cloudy,wet,low,speeding,light,SUV,28,Male
+3/14/2008,7:48 PM,50.2072224,23.5464675,Potelych,sunny,dry,high,weather conditions,heavy,SUV,38,Female
+2/18/2019,1:49 AM,34.208655,107.788999,Jinqu,snowy,snowy,medium,speeding,heavy,SUV,65,Female
+4/24/2016,1:29 PM,29.00707,114.246016,Zhajin,cloudy,snowy,high,speeding,moderate,motorcycle,43,Female
+8/11/2011,5:54 AM,30.750211,121.134569,Guangchen,snowy,icy,high,distracted driving,light,motorcycle,89,Male
+6/20/2020,2:44 AM,18.9753413,-97.9041394,El Calvario,snowy,dry,low,distracted driving,light,sedan,24,Male
+11/21/2000,4:18 PM,-6.6876798,111.4782661,Kajar,sunny,dry,medium,weather conditions,heavy,truck,96,Male
+4/19/2012,6:13 AM,51.85006,-105.03443,Lanigan,snowy,icy,medium,weather conditions,moderate,truck,25,Genderqueer
+11/16/2014,5:20 AM,35.580629,104.610668,Anding,sunny,icy,low,distracted driving,light,SUV,88,Female
+5/31/2020,6:39 PM,31.8577642,35.936274,Jāwā,rainy,icy,medium,speeding,light,sedan,94,Female
+10/20/2005,5:33 AM,22.951554,112.10915,Xinbao,sunny,icy,low,speeding,heavy,truck,63,Female
+11/30/2000,6:22 PM,30.526435,120.946263,Haiyan,cloudy,dry,high,speeding,moderate,truck,33,Male
+3/1/2008,2:19 PM,7.027766,-74.692965,Remedios,cloudy,wet,low,weather conditions,heavy,truck,26,Female
+11/23/2002,12:53 PM,50.4322664,13.0716999,Kovářská,snowy,snowy,medium,weather conditions,heavy,truck,60,Female
+11/5/2020,8:54 AM,47.785421,-3.2602564,Toulouse,snowy,icy,low,weather conditions,moderate,motorcycle,60,Male
+8/11/2011,2:28 AM,6.0455336,120.9985973,Loay,snowy,dry,medium,weather conditions,light,SUV,86,Female
+12/13/2001,1:26 AM,30.780217,120.644805,Fengqiao,snowy,icy,high,speeding,light,motorcycle,61,Male
+6/19/2017,2:09 AM,-6.5139395,-78.5185197,Chalamarca,sunny,dry,low,speeding,moderate,sedan,65,Male
+10/17/2011,10:17 AM,-7.605833,110.7584366,Geneng Tengah,cloudy,snowy,low,weather conditions,light,SUV,78,Male
+11/21/2009,4:36 PM,6.1514423,-5.9515399,Gagnoa,rainy,icy,high,speeding,moderate,motorcycle,100,Agender
+2/1/2019,9:01 AM,47.498123,33.9169021,Novovorontsovka,snowy,icy,low,distracted driving,moderate,sedan,89,Female
+9/19/2018,7:50 PM,32.187849,119.425836,Zhenjiang,cloudy,dry,low,distracted driving,moderate,sedan,73,Genderqueer
+6/27/2022,5:54 AM,-7.5088,108.2386,Datarsitu,snowy,snowy,medium,distracted driving,moderate,motorcycle,53,Female
+1/16/2017,5:42 PM,50.4466097,18.1077046,Januszkowice,snowy,wet,medium,speeding,light,truck,74,Male
+6/28/2009,6:40 PM,15.6729353,0.5045206,Ansongo,snowy,icy,medium,distracted driving,heavy,truck,35,Male
+5/5/2005,2:32 PM,-5.85,105.75,Bakau,rainy,wet,low,speeding,light,motorcycle,87,Female
+4/23/2004,8:51 AM,23.104725,113.668388,Guansheng,snowy,snowy,medium,speeding,light,truck,75,Male
+2/12/2011,9:40 PM,-9.5517,124.3173,Fatufaun,cloudy,wet,high,speeding,light,SUV,45,Male
+11/8/2015,10:31 AM,26.312444,99.850365,Shaxi,sunny,icy,low,distracted driving,heavy,SUV,97,Female
+7/28/2014,5:57 AM,26.695419,101.841707,Jinhe,sunny,snowy,high,distracted driving,light,SUV,18,Male
+7/1/2003,8:19 PM,42.6629138,21.1655028,Pristina,rainy,dry,high,speeding,moderate,SUV,99,Female
+8/14/2004,7:35 PM,44.351935,-87.8445954,København,cloudy,icy,low,distracted driving,moderate,truck,58,Female
+7/2/2000,2:43 AM,15.0312765,-88.6458421,Protección,snowy,icy,high,speeding,heavy,motorcycle,59,Polygender
+12/6/2020,1:00 AM,-8.7290069,120.409835,Ponggeok,cloudy,icy,low,speeding,light,motorcycle,71,Male
+6/19/2006,5:30 AM,34.454443,113.050581,Dengfang,rainy,snowy,medium,weather conditions,light,truck,27,Male
+8/17/2019,9:09 AM,-6.2057339,107.0096844,Mangseng,rainy,dry,medium,weather conditions,light,SUV,69,Genderfluid
+3/13/2008,6:25 AM,26.9215438,68.1195259,Thāru Shāh,rainy,wet,low,distracted driving,heavy,truck,82,Female
+10/13/2011,7:51 AM,39.293263,117.32162,Huozhuangzi,cloudy,icy,medium,speeding,moderate,truck,56,Female
+10/4/2016,11:39 AM,-6.9717,112.8592,Mursaba,rainy,dry,high,weather conditions,light,motorcycle,97,Genderqueer
+6/3/2013,11:41 AM,13.9791936,121.7983634,Malicboy,rainy,wet,high,distracted driving,heavy,truck,21,Male
+12/13/2003,7:21 PM,47.5155739,40.8140313,Semikarakorsk,sunny,snowy,high,distracted driving,moderate,SUV,81,Female
+11/9/2021,12:17 AM,44.6381341,41.9381568,Nevinnomyssk,snowy,icy,low,speeding,moderate,sedan,65,Female
+7/11/2011,7:27 AM,25.9375976,-100.3638252,El Carmen,cloudy,icy,low,weather conditions,heavy,motorcycle,90,Female
+7/14/2011,9:51 AM,38.9021066,-9.4174646,Cortezia,rainy,dry,medium,weather conditions,moderate,motorcycle,42,Female
+1/2/2011,1:06 AM,-8.3765619,115.1918802,Mekarsari,sunny,wet,medium,speeding,moderate,SUV,49,Female
+8/3/2013,9:07 AM,7.9819727,-81.166481,Río de Jesús,rainy,dry,high,distracted driving,heavy,motorcycle,87,Male
+10/18/2011,3:13 PM,61.1251,29.8708001,Kuznechnoye,sunny,dry,low,speeding,moderate,SUV,24,Male
+12/31/2018,8:59 PM,-6.91253,113.75089,Keles Timur,sunny,wet,medium,weather conditions,heavy,SUV,52,Non-binary
+6/16/2000,7:17 PM,6.885648,-75.335829,Angostura,sunny,snowy,medium,speeding,light,SUV,67,Agender
+6/2/2000,3:44 AM,34.2211097,71.6276159,Shabqadar,rainy,wet,medium,weather conditions,moderate,truck,54,Female
+5/23/2009,9:17 PM,55.195577,47.0592319,Buinsk,sunny,wet,high,distracted driving,heavy,motorcycle,23,Female
+11/6/2018,9:18 AM,10.3696393,-66.9571026,San Antonio de Los Altos,sunny,dry,high,speeding,heavy,truck,61,Male
+6/14/2000,4:24 PM,50.404585,20.9948039,Chrzanów,rainy,icy,medium,speeding,light,truck,67,Female
+1/8/2015,4:51 PM,-29.9846105,-50.1326727,Tramandaí,rainy,icy,high,distracted driving,light,truck,98,Non-binary
+10/28/2007,10:16 AM,8.0011905,-67.3950339,Guayabal,cloudy,snowy,low,distracted driving,light,sedan,77,Male
+10/17/2002,3:47 AM,3.2907122,-75.4577775,Aipe,rainy,wet,medium,speeding,light,truck,93,Male
+12/2/2005,4:55 PM,31.121239,121.370354,Xinzhuang,sunny,dry,low,speeding,light,SUV,77,Female
+8/16/2013,5:19 AM,5.3523231,100.3573891,Pulau Pinang,rainy,wet,high,distracted driving,light,truck,100,Agender
+9/28/2014,4:52 AM,50.7917257,21.2322042,Baćkowice,sunny,snowy,low,speeding,moderate,SUV,87,Bigender
+3/3/2016,11:15 AM,32.4033247,51.3994672,Zarrīn Shahr,snowy,wet,high,speeding,light,motorcycle,100,Female
+4/29/2021,8:56 PM,41.4591168,48.8020626,Xaçmaz,sunny,dry,low,distracted driving,heavy,sedan,60,Female
+9/29/2010,6:17 PM,32.6180396,110.7762387,Qinglian,cloudy,dry,high,distracted driving,heavy,truck,36,Male
+1/26/2018,7:16 AM,21.9868109,90.295166,Uttar Char Fasson,rainy,dry,low,speeding,moderate,SUV,93,Male
+9/11/2002,3:37 AM,43.1555152,19.1226018,Žabljak,rainy,dry,low,distracted driving,moderate,truck,88,Female
+4/3/2020,2:31 AM,-28.3833642,-53.929557,Ijuí,snowy,icy,medium,speeding,heavy,motorcycle,25,Female
+6/26/2017,7:09 AM,12.3783745,17.0568962,Bokoro,sunny,dry,low,weather conditions,light,truck,34,Male
+10/24/2010,2:01 AM,39.6024762,47.1523402,Fizuli,cloudy,snowy,high,speeding,heavy,SUV,84,Male
+7/4/2016,7:06 AM,56.2862076,43.0264348,Novosmolinskiy,cloudy,dry,low,weather conditions,moderate,motorcycle,52,Male
+3/12/2007,4:39 PM,52.2960003,35.4190083,Zheleznogorsk,sunny,dry,low,weather conditions,heavy,SUV,32,Female
+12/19/2022,4:03 PM,41.3435561,-8.3773116,Roriz,sunny,dry,medium,speeding,light,truck,60,Male
+1/30/2007,6:04 PM,48.4959725,23.2844139,Lysychovo,sunny,wet,high,weather conditions,light,truck,66,Female
+7/27/2004,2:25 AM,27.974248,120.632896,Gaoxiang,cloudy,dry,low,speeding,light,SUV,60,Female
+2/15/2004,2:33 AM,55.5807611,37.7673912,Orekhovo-Borisovo,rainy,dry,medium,distracted driving,light,motorcycle,99,Female
+2/9/2017,6:56 PM,45.4447185,18.8903084,Trpinja,snowy,snowy,low,weather conditions,moderate,sedan,49,Female
+4/13/2021,4:17 AM,13.9740494,-86.5425921,Araulí,sunny,dry,high,weather conditions,moderate,motorcycle,86,Male
+4/11/2019,6:26 PM,40.2314017,44.2477669,Aghavnatun,rainy,snowy,high,weather conditions,light,SUV,64,Female
+12/6/2004,5:03 AM,-7.025171,107.5168417,Rawa Satu,rainy,dry,high,weather conditions,heavy,sedan,86,Male
+8/1/2016,9:32 PM,42.075123,21.0523541,Теарце,sunny,snowy,high,speeding,heavy,sedan,38,Female
+2/19/2004,5:32 PM,-16.111792,-69.5541,Pilcuyo,cloudy,dry,medium,distracted driving,moderate,truck,26,Male
+12/23/2021,6:45 PM,30.352893,105.204609,Baoshi,rainy,snowy,medium,weather conditions,light,motorcycle,70,Female
+8/5/2012,3:11 AM,-4.6210967,55.4277802,Beau Vallon,snowy,snowy,medium,weather conditions,light,SUV,36,Male
+3/28/2016,8:38 AM,40.7681987,-73.9608428,New York City,snowy,icy,medium,speeding,moderate,sedan,36,Female
+10/14/2006,2:47 PM,33.366735,117.541917,Maxu,rainy,icy,medium,weather conditions,heavy,motorcycle,19,Male
+10/21/2021,9:20 AM,37.479652,140.9588844,Namie,cloudy,wet,medium,distracted driving,heavy,sedan,79,Male
+3/24/2017,12:25 AM,14.3958755,121.0191099,Balitoc,snowy,wet,high,speeding,light,SUV,100,Female
+11/30/2001,3:07 AM,-8.6741659,-35.7188463,Catende,sunny,dry,high,distracted driving,moderate,SUV,91,Female
+1/19/2002,2:35 PM,-4.6210967,55.4277802,Beau Vallon,rainy,wet,medium,speeding,heavy,SUV,75,Female
+1/24/2019,5:54 PM,49.4744879,15.8691305,Bohdalov,rainy,icy,low,distracted driving,heavy,truck,47,Male
+5/9/2005,10:20 AM,33.3594755,35.5889282,Marjayoûn,snowy,snowy,medium,distracted driving,moderate,SUV,95,Female
+11/27/2020,1:49 AM,-7.0138053,108.5700636,Kuningan,rainy,snowy,low,weather conditions,moderate,sedan,30,Female
+1/13/2003,5:42 PM,29.444529,121.04024,Dashiju,rainy,snowy,low,weather conditions,light,sedan,56,Male
+12/9/2020,10:58 AM,41.9562157,21.7152906,Sredno Konjare,rainy,icy,low,weather conditions,moderate,truck,78,Female
+11/9/2014,10:21 AM,-6.4761564,111.0400034,Krajan Alasdowo,rainy,icy,high,speeding,moderate,truck,77,Male
+1/22/2006,7:14 AM,30.780217,120.644805,Fengqiao,sunny,wet,low,weather conditions,moderate,truck,79,Bigender
+7/26/2019,11:21 AM,-5.7966464,-35.2370177,Natal,rainy,icy,low,weather conditions,light,SUV,98,Female
+11/9/2005,11:05 AM,51.1259587,15.1849486,Siekierczyn,cloudy,snowy,low,speeding,moderate,truck,33,Male
+1/19/2006,8:24 PM,59.6742944,29.8519956,Kipen’,rainy,icy,medium,distracted driving,light,motorcycle,79,Female
+1/14/2020,9:22 AM,30.6107721,53.1911235,Şafāshahr,snowy,icy,high,weather conditions,light,truck,83,Female
+8/4/2019,4:48 PM,30.238152,118.148217,Gengcheng,snowy,wet,high,weather conditions,heavy,sedan,20,Bigender
+10/31/2016,4:11 AM,3.5897715,103.3475743,Pekan,rainy,dry,low,speeding,moderate,truck,32,Male
+4/29/2019,6:19 AM,45.6472323,13.7889869,Trieste,cloudy,icy,high,weather conditions,heavy,motorcycle,33,Female
+3/2/2017,9:41 PM,-8.3743231,124.7630307,Kiraman,sunny,dry,low,distracted driving,light,sedan,84,Female
+8/22/2009,1:58 PM,37.7340363,-8.4593678,Colos,sunny,icy,low,distracted driving,heavy,SUV,67,Female
+8/26/2008,11:50 PM,63.3772787,10.3070483,Trondheim,sunny,dry,high,speeding,moderate,SUV,19,Male
+9/19/2015,6:58 PM,41.420018,128.200789,Changbai,cloudy,snowy,low,weather conditions,heavy,sedan,45,Male
+4/23/2007,3:16 PM,-8.1130067,112.0304508,Luntas,cloudy,wet,low,weather conditions,light,motorcycle,79,Female
+1/3/2004,5:10 AM,13.1959918,-86.1688177,La Concordia,rainy,wet,medium,distracted driving,moderate,sedan,89,Male
+2/17/2018,2:36 PM,32.703801,35.225489,Timrat,rainy,icy,high,distracted driving,moderate,truck,57,Female
+5/4/2004,3:34 AM,45.9402271,15.4773182,Leskovec pri Krškem,sunny,dry,high,speeding,moderate,sedan,41,Female
+7/15/2022,2:51 PM,58.478361,6.8567623,Hamar,snowy,wet,medium,weather conditions,light,motorcycle,74,Female
+4/27/2020,2:39 AM,37.9810474,23.6498494,Korydallós,snowy,snowy,medium,speeding,moderate,SUV,76,Male
+1/8/2020,4:10 PM,-6.8102224,107.4652476,Pasar Kidul,cloudy,snowy,high,weather conditions,light,truck,39,Male
+11/29/2003,5:33 PM,29.4779861,30.961645,Ţāmiyah,sunny,wet,low,speeding,moderate,SUV,87,Female
+2/24/2009,7:45 AM,14.9445596,103.7983521,Si Khoraphum,rainy,wet,medium,speeding,heavy,truck,36,Male
+6/25/2005,8:45 AM,41.91142,112.97964,Bahaodi,rainy,wet,high,speeding,moderate,truck,68,Male
+10/6/2011,10:31 AM,7.75,-61,Sierra Imataca,rainy,icy,medium,speeding,heavy,SUV,89,Female
+6/30/2020,11:23 PM,13.2648001,123.4665442,Saaban,snowy,snowy,low,weather conditions,heavy,truck,83,Male
+12/10/2002,1:30 PM,43.8322875,25.9534752,Zlataritsa,cloudy,snowy,low,speeding,heavy,SUV,41,Male
+11/6/2011,8:46 PM,50.9129256,16.432166,Jaworzyna Śląska,rainy,icy,high,speeding,moderate,SUV,54,Agender
+11/28/2001,10:20 PM,-6.3323352,105.8671954,Janaka,rainy,snowy,high,weather conditions,light,truck,19,Male
+8/21/2013,6:23 PM,64.5950323,30.6115492,Kostomuksha,snowy,dry,medium,distracted driving,moderate,SUV,56,Genderfluid
+3/8/2010,11:50 AM,41.833253,20.974874,Чегране,sunny,dry,high,weather conditions,moderate,motorcycle,55,Female
+3/21/2001,7:32 AM,0.2070254,32.5401025,Kajansi,snowy,dry,medium,distracted driving,light,sedan,55,Female
+4/19/2009,8:30 AM,49.9396574,16.9280562,Bludov,sunny,snowy,low,distracted driving,moderate,sedan,49,Agender
+9/7/2019,11:11 PM,49.5474598,16.2620907,Ždánice,rainy,wet,medium,weather conditions,light,SUV,44,Female
+11/17/2002,2:27 PM,-4.722383,104.447701,Kasui,cloudy,snowy,low,distracted driving,heavy,SUV,89,Female
+2/7/2011,9:00 AM,39.953041,116.371207,Zhongying,rainy,snowy,high,weather conditions,moderate,SUV,40,Female
+12/24/2022,9:37 AM,30.7998721,103.8280655,Huwei,sunny,wet,high,weather conditions,heavy,sedan,92,Female
+4/15/2008,10:18 PM,7.6488023,-73.2116953,Cáchira,rainy,dry,high,weather conditions,moderate,sedan,22,Female
+9/17/2009,1:33 AM,12.0308987,39.0476298,Lalībela,snowy,dry,medium,distracted driving,moderate,truck,89,Female
+8/22/2021,2:44 AM,12.530434,122.287602,Romblon,snowy,snowy,high,weather conditions,heavy,motorcycle,46,Male
+11/16/2007,12:13 AM,52.1350237,83.3181593,Ust’-Kalmanka,cloudy,icy,low,distracted driving,light,truck,37,Male
+6/1/2001,1:50 AM,41.270347,123.174325,Baita,snowy,icy,low,distracted driving,heavy,motorcycle,98,Female
+11/30/2000,1:59 AM,-9.6277897,-74.9749415,Yuyapichis,rainy,wet,low,speeding,light,motorcycle,80,Male
+10/16/2005,10:22 PM,51.4617501,20.9131216,Przytyk,sunny,snowy,medium,distracted driving,moderate,sedan,73,Female
+4/19/2002,8:18 AM,39.937881,116.4080926,Xiaomian,snowy,icy,high,speeding,moderate,truck,32,Male
+3/31/2021,7:03 PM,52.7815,20.11774,Raciąż,snowy,dry,medium,weather conditions,heavy,sedan,20,Female
+12/29/2014,3:31 PM,5.3673999,10.417181,Bandjoun,rainy,icy,medium,distracted driving,heavy,motorcycle,46,Female
+9/26/2007,3:44 AM,57.6439405,11.9021049,Västra Frölunda,cloudy,snowy,high,distracted driving,light,truck,34,Male
+5/28/2001,10:14 PM,15.461001,120.465946,Villa Aglipay,cloudy,snowy,low,distracted driving,light,sedan,80,Female
+8/25/2014,2:29 AM,54.9257823,20.3700368,Roshchino,snowy,dry,high,distracted driving,light,SUV,79,Female
+9/18/2002,7:10 PM,31.191952,121.472429,Luwan,rainy,wet,high,distracted driving,light,motorcycle,86,Male
+5/13/2004,8:18 PM,-8.7080752,115.1808171,Banjar Bali,cloudy,snowy,low,distracted driving,heavy,truck,89,Male
+3/11/2002,2:51 PM,53.6808257,16.9312789,Czarne,snowy,icy,medium,weather conditions,heavy,sedan,69,Male
+11/12/2013,5:22 AM,41.1071733,-80.5993854,Youngstown,rainy,wet,high,weather conditions,light,SUV,38,Male
+11/22/2007,4:03 AM,-8.2202049,111.4708135,Barang,snowy,snowy,low,weather conditions,heavy,sedan,60,Agender
+11/17/2000,2:43 PM,59.5336088,18.0725818,Vallentuna,snowy,icy,high,weather conditions,moderate,truck,93,Female
+8/3/2018,2:06 PM,-22.2528986,-45.7049987,Santa Rita do Sapucaí,cloudy,icy,high,distracted driving,light,sedan,24,Female
+3/22/2017,5:52 AM,3.6020791,98.4683053,Bantawora,rainy,wet,low,speeding,heavy,motorcycle,39,Male
+1/28/2019,6:33 PM,31.220367,121.424624,Changning,snowy,snowy,low,distracted driving,light,truck,52,Female
+4/13/2017,7:43 AM,38.6502909,-9.2157735,Funchalinho,cloudy,wet,high,distracted driving,heavy,sedan,73,Female
+11/17/2011,2:27 AM,40.5742298,48.3896404,Aghsu,rainy,dry,medium,weather conditions,moderate,truck,25,Polygender
+4/18/2016,8:06 AM,44.8245862,19.771335,Platičevo,cloudy,icy,medium,distracted driving,light,motorcycle,34,Male
+4/18/2015,1:44 AM,50.0873009,16.4652007,Žamberk,sunny,icy,medium,weather conditions,light,SUV,91,Male
+8/18/2010,8:28 AM,52.9718428,63.1128326,Rudnyy,snowy,snowy,medium,weather conditions,heavy,sedan,28,Female
+4/18/2020,6:08 AM,-7.783297,110.363649,Jetis,snowy,icy,high,speeding,light,motorcycle,70,Male
+1/11/2006,11:07 AM,36.8173373,24.5599015,Kímolos,sunny,wet,medium,speeding,light,SUV,58,Female
+4/22/2001,3:29 PM,50.2650642,18.9033756,Ruda Śląska,snowy,dry,low,distracted driving,light,truck,29,Male
+5/12/2020,11:59 AM,47.8024242,3.3671862,Chaumont,cloudy,icy,medium,speeding,moderate,SUV,79,Polygender
+12/28/2021,12:37 PM,-6.5114699,106.8325872,Nanggewer,snowy,wet,low,speeding,light,sedan,51,Male
+10/3/2008,10:35 AM,-12.3483286,-75.7872919,Laraos,snowy,icy,medium,speeding,moderate,motorcycle,76,Female
+11/16/2002,12:58 AM,45.8299686,-64.2092372,Amherst,sunny,dry,medium,distracted driving,light,motorcycle,51,Male
+8/23/2018,3:41 AM,8.6899208,6.663812,Lapai,rainy,wet,low,speeding,light,truck,76,Agender
+7/18/2005,10:43 PM,-26.424537,-49.5483671,Rio Negrinho,cloudy,icy,medium,distracted driving,heavy,truck,80,Genderfluid
+6/15/2014,1:01 PM,36.1473783,136.1682227,Fukui-shi,cloudy,wet,medium,speeding,light,truck,82,Female
+12/19/2009,9:53 AM,22.5505556,114.4913889,Dapeng,snowy,dry,high,distracted driving,moderate,sedan,45,Male
+11/12/2000,10:08 AM,39.353118,-9.1143068,A dos Negros,snowy,wet,medium,speeding,light,motorcycle,95,Male
+2/18/2012,5:43 PM,14.6214687,-90.8066537,Parramos,rainy,wet,low,distracted driving,heavy,SUV,20,Male
+3/29/2018,1:04 PM,11.4693878,123.1476046,Estancia,rainy,wet,low,speeding,light,SUV,65,Male
+5/9/2005,4:06 PM,33.423357,109.152893,Zhen’an,rainy,icy,medium,speeding,light,truck,98,Male
+8/23/2012,12:07 PM,39.6352297,-8.6888467,Cova da Iria,rainy,snowy,low,weather conditions,light,motorcycle,41,Male
+7/7/2018,6:34 AM,50.109938,30.6298846,Obukhiv,rainy,wet,low,weather conditions,heavy,truck,81,Male
+6/13/2018,8:53 PM,1.805165,-75.88834,Acevedo,sunny,dry,medium,weather conditions,heavy,SUV,55,Female
+7/4/2018,10:43 AM,9.9817261,122.5356326,Masaling,cloudy,dry,high,weather conditions,light,SUV,97,Male
+3/13/2005,9:17 AM,51.4174879,18.0755564,Doruchów,sunny,wet,high,weather conditions,moderate,SUV,52,Male
+5/17/2012,9:51 AM,31.688228,105.570955,Tianxingchang,snowy,snowy,low,speeding,light,SUV,75,Male
+3/11/2002,4:28 AM,10.7164071,123.37862,Bugang,cloudy,snowy,high,weather conditions,moderate,truck,31,Female
+6/28/2007,10:33 PM,-14.27079,-69.567879,Patambuco,sunny,dry,low,speeding,heavy,truck,85,Female
+6/24/2015,3:23 AM,38.7432706,-9.3719884,Manique,rainy,dry,medium,distracted driving,heavy,truck,30,Bigender
+12/23/2011,3:29 PM,36.438167,-105.547392,Pueblo Nuevo,cloudy,wet,low,speeding,light,truck,51,Male
+5/21/2009,6:59 PM,65.6043277,25.2073848,Kuivaniemi,snowy,snowy,medium,speeding,light,motorcycle,54,Male
+1/20/2004,5:01 AM,0.0514721,37.6456042,Meru,sunny,wet,medium,speeding,moderate,truck,82,Male
+10/22/2014,3:18 PM,43.6167208,3.8299106,Montpellier,snowy,icy,high,distracted driving,heavy,sedan,91,Female
+5/4/2021,2:01 PM,42.1119268,44.9672863,T’ianet’i,snowy,snowy,medium,speeding,moderate,sedan,40,Female
+1/19/2007,6:26 PM,26.604594,106.724426,Yunyan,snowy,snowy,high,speeding,moderate,SUV,95,Male
+1/15/2011,3:00 AM,-6.3007596,106.8329412,Oelui,sunny,snowy,high,speeding,light,SUV,29,Female
+6/13/2020,4:00 AM,6.639497,-73.287406,Galán,rainy,icy,medium,distracted driving,moderate,sedan,31,Female
+9/17/2012,8:27 AM,31.568311,83.872813,Tongzhong,snowy,icy,high,distracted driving,light,truck,29,Female
+11/20/2004,6:36 PM,14.3283582,120.9772289,Kauit,rainy,icy,low,speeding,moderate,truck,96,Female
+11/4/2012,9:36 AM,17.7434868,121.7376392,Iguig,sunny,icy,low,weather conditions,heavy,SUV,55,Female
+12/1/2013,3:02 AM,-6.9957759,112.5677183,Asempapak,rainy,icy,medium,distracted driving,light,sedan,61,Male
+2/27/2022,5:05 AM,-8.4774,115.597,Banjar Timbrah,sunny,dry,medium,distracted driving,heavy,SUV,93,Female
+5/18/2000,4:19 AM,51.5047917,21.2618048,Jastrzębia,rainy,snowy,low,weather conditions,moderate,motorcycle,69,Agender
+7/5/2017,3:24 AM,17.8200009,120.4544261,Cabugao,rainy,snowy,low,distracted driving,heavy,motorcycle,44,Female
+2/1/2006,2:16 AM,-0.1432752,31.6054893,Bukomansimbi,rainy,wet,high,weather conditions,heavy,SUV,72,Female
+6/21/2001,9:11 PM,-22.9106154,44.5266466,Sakaraha,rainy,icy,low,distracted driving,moderate,motorcycle,56,Female
+9/16/2005,10:04 PM,78.221061,15.6469321,Longyearbyen,cloudy,icy,medium,distracted driving,heavy,SUV,30,Male
+11/14/2005,9:29 PM,14.1560521,-88.0363086,Marcala,rainy,snowy,high,speeding,light,motorcycle,50,Male
+4/25/2012,8:08 PM,40.6898292,22.858794,Diavatá,snowy,dry,low,weather conditions,light,SUV,69,Male
+4/23/2015,3:56 AM,-7.7018672,112.548349,Pacet,sunny,icy,high,speeding,heavy,truck,60,Female
+7/19/2005,5:49 PM,43.1023643,40.618282,Gudauta,sunny,snowy,medium,distracted driving,moderate,SUV,56,Female
+3/17/2013,4:12 AM,-9.1472165,-77.7267877,Hongos,cloudy,snowy,low,speeding,moderate,truck,91,Male
+4/18/2022,4:22 AM,56.8744773,16.6629189,Borgholm,cloudy,icy,medium,weather conditions,moderate,sedan,58,Male
+9/14/2009,12:51 AM,1.6480399,14.5742675,Sémbé,snowy,wet,low,speeding,moderate,sedan,34,Male
+12/21/2010,11:06 PM,-33.6815281,-70.9853968,El Monte,rainy,snowy,high,weather conditions,heavy,truck,84,Female
+2/6/2008,2:44 AM,-8.7287229,117.666952,Maronge,cloudy,dry,medium,distracted driving,light,sedan,84,Male
+6/16/2002,12:42 AM,47.0165054,-68.1430064,Stockholm,sunny,snowy,low,speeding,moderate,sedan,24,Female
+1/23/2015,5:45 AM,54.7180477,18.4086339,Puck,snowy,wet,medium,speeding,heavy,truck,18,Polygender
+8/7/2013,4:23 PM,-25.4645818,-56.013851,Caaguazú,sunny,snowy,medium,weather conditions,heavy,truck,72,Female
+8/15/2013,4:38 PM,26.480043,113.778639,Xiayang,cloudy,icy,low,distracted driving,heavy,sedan,69,Bigender
+5/2/2009,6:30 AM,-9.7028,119.4717,Toupopu,sunny,snowy,high,weather conditions,heavy,sedan,49,Male
+8/16/2016,4:29 PM,22.396428,114.109497,Hong Kong,rainy,wet,medium,distracted driving,heavy,truck,52,Female
+12/27/2022,3:47 PM,40.8123781,49.4656047,Şuraabad,cloudy,dry,high,speeding,heavy,sedan,61,Female
+11/22/2014,10:37 PM,53.7423435,-8.6346959,Castlerea,sunny,snowy,low,speeding,light,truck,68,Female
+8/25/2017,1:02 PM,49.7720225,4.7201792,Charleville-Mézières,cloudy,dry,low,speeding,heavy,truck,52,Male
+1/3/2004,11:01 AM,31.31913,34.34005,‘Abasān al Kabīrah,snowy,icy,medium,distracted driving,heavy,sedan,23,Female
+5/2/2000,12:21 PM,51.0177556,21.5418795,Bałtów,sunny,icy,medium,distracted driving,light,motorcycle,31,Agender
+1/11/2017,5:39 AM,39.1372748,111.6717568,Yiqi,sunny,wet,low,distracted driving,moderate,SUV,23,Genderqueer
+12/22/2010,8:07 PM,-5.387502,26.9911288,Kongolo,rainy,icy,medium,distracted driving,moderate,SUV,99,Male
+1/30/2020,2:34 AM,10.4009358,106.22868,Châu Thành,sunny,icy,medium,distracted driving,light,motorcycle,72,Female
+7/2/2001,8:30 AM,43.5773738,3.8189307,Saint-Jean-de-Védas,snowy,icy,high,speeding,heavy,SUV,94,Female
+2/1/2019,1:30 PM,14.63333,-16.23333,Tiébo,rainy,icy,medium,distracted driving,moderate,motorcycle,55,Male
+5/6/2005,7:08 PM,0.8639157,-77.5529475,Córdoba,sunny,wet,low,distracted driving,heavy,sedan,45,Male
+9/21/2021,12:43 PM,15.2256074,100.6599899,Nong Muang,cloudy,icy,medium,speeding,moderate,truck,90,Male
+8/29/2006,12:56 AM,-23.611227,-46.668872,Piuí,snowy,snowy,medium,distracted driving,heavy,truck,36,Male
+5/3/2007,2:55 PM,14.43201,46.15435,Khawrah,cloudy,wet,high,distracted driving,heavy,truck,46,Male
+4/25/2020,7:09 PM,39.574695,113.28303,Zhenziliang,rainy,dry,high,speeding,light,SUV,93,Male
+8/17/2005,7:04 PM,-6.2241971,106.8281984,Genang,snowy,snowy,high,weather conditions,moderate,sedan,27,Female
+3/17/2015,2:07 PM,57.7051896,11.9006932,Göteborg,sunny,snowy,low,distracted driving,moderate,truck,63,Female
+5/17/2000,1:29 AM,22.671042,113.823131,Fuyong,cloudy,wet,low,speeding,light,SUV,99,Female
+2/3/2015,6:46 PM,-19.156561,-65.267799,Yotala,cloudy,wet,medium,weather conditions,heavy,SUV,72,Male
+8/9/2015,7:36 AM,9.5887428,123.7337859,Doljo,snowy,dry,medium,distracted driving,moderate,SUV,73,Female
+7/26/2021,1:14 AM,28.821772,90.047034,Ralung,sunny,dry,high,distracted driving,light,sedan,83,Male
+11/4/2012,3:00 AM,12.78987,45.00244,Al Ma‘allā’,snowy,snowy,high,weather conditions,light,SUV,85,Female
+2/16/2019,3:47 AM,58.5355022,25.4666818,Suure-Jaani,snowy,snowy,low,weather conditions,light,sedan,97,Female
+11/11/2005,8:31 PM,56.8134441,13.9368114,Ljungby,rainy,snowy,medium,distracted driving,light,motorcycle,19,Female
+12/3/2006,3:32 AM,-16.3607933,-71.5438952,Ramón Castilla,rainy,wet,high,distracted driving,light,motorcycle,49,Female
+10/5/2007,11:09 PM,40.2365225,-8.5110798,São João do Campo,snowy,snowy,medium,weather conditions,light,motorcycle,25,Female
+3/16/2000,5:38 PM,-2.5063808,115.1296249,Babirik,sunny,wet,medium,distracted driving,heavy,motorcycle,25,Female
+8/1/2011,9:07 AM,25.6564843,-100.3694401,Del Valle,sunny,snowy,medium,speeding,light,motorcycle,86,Male
+9/2/2003,11:17 PM,42.58063,20.31619,Strellc i Ulët,rainy,wet,medium,distracted driving,light,truck,90,Female
+6/12/2017,11:28 PM,54.8953858,27.7599272,Dokshytsy,snowy,dry,medium,distracted driving,light,motorcycle,43,Female
+11/28/2006,8:42 PM,49.1169513,101.449837,Rashaant,snowy,snowy,low,speeding,moderate,sedan,26,Male
+6/22/2019,4:15 AM,59.6117063,13.4504935,Deje,sunny,icy,low,weather conditions,moderate,sedan,53,Male
+11/10/2017,9:02 PM,-6.9917588,111.2785407,Bradag,sunny,wet,high,speeding,light,sedan,67,Female
+11/27/2022,7:44 PM,52.1972058,5.996755,Apeldoorn,snowy,snowy,high,weather conditions,light,motorcycle,46,Female
+7/3/2002,7:25 AM,24.3154419,109.3656914,Liugong,sunny,dry,low,weather conditions,moderate,motorcycle,73,Male
+9/27/2005,3:20 AM,38.30647,28.266799,Ovacik,cloudy,wet,high,speeding,heavy,truck,65,Male
+11/21/2019,4:56 AM,-21.6733002,-49.7471388,Lins,sunny,dry,low,speeding,light,SUV,78,Female
+4/22/2021,4:42 PM,33.32836,35.92144,Mazra‘at Bayt Jinn,sunny,dry,medium,distracted driving,light,sedan,85,Female
+10/20/2011,1:48 AM,-8.2439141,114.3727687,Sobo,snowy,icy,low,weather conditions,light,motorcycle,64,Female
+12/3/2003,3:58 PM,34.2307023,37.2383506,Al Qaryatayn,cloudy,snowy,medium,speeding,light,motorcycle,73,Male
+12/11/2007,1:47 AM,49.9594627,15.9105476,Hrochův Týnec,rainy,icy,high,distracted driving,moderate,SUV,19,Male
+2/15/2011,3:05 AM,37.9773385,140.1850334,Kameoka,sunny,wet,low,distracted driving,heavy,motorcycle,81,Male
+7/30/2011,10:37 AM,15.7193344,-86.9173327,El Pino,rainy,dry,low,weather conditions,light,SUV,80,Female
+12/27/2013,9:56 PM,-21.7699268,-43.3309142,Juiz de Fora,sunny,wet,medium,speeding,moderate,truck,28,Female
+7/12/2018,7:43 AM,30.3312397,120.1534039,Shixiang,snowy,icy,high,weather conditions,heavy,truck,78,Male
+6/21/2002,6:07 AM,51.1347637,133.0393804,Chegdomyn,cloudy,snowy,low,speeding,light,SUV,73,Male
+12/24/2004,5:51 PM,27.223071,103.7893123,Zhaobei,rainy,dry,high,weather conditions,moderate,truck,29,Female
+12/25/2014,11:37 PM,-6.9561846,113.9883465,Jandir,cloudy,snowy,medium,speeding,light,motorcycle,34,Female
+12/20/2016,12:48 AM,50.0427687,15.8099824,Pardubice,snowy,icy,medium,distracted driving,moderate,truck,50,Male
+8/29/2015,7:09 AM,31.032243,121.227747,Songjiang,rainy,snowy,low,distracted driving,heavy,sedan,58,Female
+8/4/2002,10:31 AM,-11.8887963,-75.2865498,Quichuay,rainy,icy,low,weather conditions,heavy,SUV,69,Female
+2/18/2010,6:03 PM,-6.96661,111.7018452,Bangilan,cloudy,icy,high,speeding,heavy,SUV,84,Female
+10/20/2000,8:47 AM,-17.1468375,-46.9028375,Paracatu,cloudy,wet,medium,weather conditions,heavy,truck,61,Male
+12/10/2020,4:02 AM,36.608183,101.808485,Lianhe,rainy,snowy,low,speeding,heavy,motorcycle,77,Female
+9/26/2017,12:36 PM,41.4037275,-7.8500816,Bilhó,cloudy,icy,low,distracted driving,light,sedan,42,Female
+12/21/2012,2:58 AM,-10.1602312,123.5937933,Oeba,sunny,snowy,high,speeding,heavy,truck,50,Female
+9/11/2007,9:29 PM,30.199688,110.674706,Wufeng,snowy,snowy,medium,distracted driving,light,motorcycle,54,Male
+1/16/2002,10:32 PM,51.976466,21.215337,Góra Kalwaria,rainy,dry,low,distracted driving,heavy,sedan,18,Female
+10/17/2014,2:11 PM,45.4815563,4.3637137,Saint-Étienne,cloudy,snowy,high,speeding,heavy,motorcycle,35,Polygender
+11/1/2002,9:37 AM,52.5725229,16.39454,Koźle,sunny,snowy,low,speeding,light,sedan,22,Female
+9/10/2009,2:30 AM,6.8437702,125.2413578,Bansalan,cloudy,dry,high,weather conditions,moderate,SUV,74,Genderqueer
+5/18/2008,4:16 AM,50.1218351,18.3198228,Raszczyce,cloudy,wet,medium,distracted driving,light,motorcycle,23,Male
+2/28/2004,1:40 AM,36.0802326,-86.8320743,Nashville,cloudy,snowy,medium,distracted driving,moderate,motorcycle,54,Female
+4/6/2007,5:31 AM,22.481274,113.217762,Da’ao,rainy,snowy,high,weather conditions,light,motorcycle,81,Female
+9/16/2007,9:29 PM,-7.7514362,110.4162931,Gebang,snowy,icy,high,speeding,light,sedan,77,Male
+3/29/2012,1:58 AM,23.701262,117.430061,Dongshe,sunny,wet,low,distracted driving,light,truck,52,Female
+6/1/2017,8:13 AM,39.8474574,-8.8886377,Gândara de Aquém,cloudy,icy,low,speeding,heavy,sedan,50,Male
+11/22/2022,6:42 PM,39.9831117,-75.1150466,Xinying,rainy,dry,high,speeding,heavy,motorcycle,38,Female
+6/27/2020,11:12 PM,9.2828806,-83.540208,San Pedro,snowy,wet,medium,speeding,moderate,motorcycle,91,Male
+5/9/2010,3:37 PM,57.033151,22.7767899,Kandava,sunny,snowy,medium,distracted driving,light,SUV,44,Male
+7/14/2002,11:30 PM,-7.2947788,110.3427968,Jambu,rainy,snowy,high,weather conditions,light,motorcycle,25,Male
+5/16/2004,9:53 AM,57.6055534,12.2028691,Lindome,sunny,dry,low,weather conditions,light,truck,88,Male
+7/26/2021,1:39 PM,61.228665,14.040054,Älvdalen,sunny,wet,medium,distracted driving,heavy,SUV,24,Male
+8/22/2013,6:42 PM,4.870121,-75.62239,Santa Rosa de Cabal,cloudy,icy,medium,speeding,moderate,SUV,41,Male
+8/3/2018,10:57 PM,15.016667,-85.75,El Rancho,rainy,dry,high,speeding,light,SUV,33,Female
+4/6/2001,8:47 AM,-33.8780645,18.5748049,Cradock,rainy,wet,medium,distracted driving,moderate,motorcycle,54,Female
+7/18/2009,5:14 AM,30.402167,112.899762,Qianjiang,sunny,wet,high,speeding,light,motorcycle,80,Male
+9/24/2013,4:14 AM,-27.581232,-58.7426968,Laguna Limpia,sunny,dry,medium,distracted driving,light,SUV,61,Male
+4/28/2011,1:20 AM,9.939624,126.065213,San Isidro,snowy,snowy,medium,weather conditions,heavy,motorcycle,70,Female
+4/26/2001,10:39 AM,-23.5113691,-46.872942,Barueri,cloudy,icy,medium,speeding,heavy,SUV,89,Female
+9/21/2017,1:14 PM,-12.6010371,-38.965934,Cachoeira,sunny,icy,low,weather conditions,light,motorcycle,34,Female
+8/4/2021,2:18 PM,41.1572852,-8.434873,Recarei,cloudy,snowy,low,distracted driving,moderate,sedan,54,Female
+10/4/2012,3:34 AM,37.9909201,140.1660258,Funabashi,cloudy,wet,medium,distracted driving,heavy,sedan,71,Male
+9/25/2005,4:14 PM,18.3417854,-99.5171206,Las Palmas,sunny,icy,high,weather conditions,moderate,sedan,92,Female
+3/18/2007,2:40 AM,-34.6698749,-58.5616502,Florencio Varela,snowy,snowy,medium,distracted driving,heavy,motorcycle,18,Agender
+8/12/2014,5:49 PM,10.8026827,105.1960795,Tân Châu,cloudy,wet,medium,weather conditions,heavy,motorcycle,21,Agender
+6/11/2003,8:39 AM,49.7722369,20.506072,Krosno,cloudy,wet,low,speeding,heavy,motorcycle,91,Female
+9/4/2011,7:49 PM,31.236833,121.532286,Dongfeng,cloudy,icy,high,distracted driving,moderate,truck,37,Female
+2/10/2019,2:42 PM,26.512298,119.065936,Tingping,rainy,dry,low,distracted driving,heavy,truck,35,Male
+10/21/2001,9:24 AM,-31.3258489,-64.2874506,Las Varillas,rainy,snowy,high,speeding,light,SUV,63,Male
+3/2/2018,11:17 AM,46.7306768,29.9803379,Kuchurhan,rainy,wet,low,distracted driving,moderate,sedan,33,Female
+6/5/2011,12:33 PM,57.5334964,15.9897014,Hultsfred,rainy,wet,medium,speeding,light,SUV,37,Male
+1/1/2005,1:51 AM,46.4214581,33.1462635,Brylivka,rainy,icy,high,speeding,heavy,SUV,98,Male
+7/16/2007,4:46 AM,-2.6810841,32.9916478,Usagara,rainy,dry,low,weather conditions,light,motorcycle,25,Male
+2/15/2001,6:59 AM,54.6192996,39.8560057,Ryazan’,snowy,icy,high,distracted driving,light,truck,92,Female
+12/29/2001,12:10 PM,41.8214682,-7.4930317,Agrela,snowy,icy,low,speeding,moderate,SUV,72,Female
+6/20/2017,2:30 PM,16.9334683,121.7587348,Balas,snowy,icy,high,weather conditions,moderate,SUV,92,Female
+2/22/2022,9:53 PM,32.085094,35.180832,Salfīt,snowy,wet,low,distracted driving,heavy,sedan,27,Female
+8/3/2021,10:38 PM,47.801401,121.293284,Nanmu,sunny,snowy,high,distracted driving,heavy,SUV,62,Female
+6/7/2009,9:49 PM,49.7821352,23.6611306,Horodok,sunny,dry,high,distracted driving,moderate,SUV,66,Male
+6/10/2016,4:47 PM,53.5834008,-6.1349155,Skerries,sunny,wet,medium,speeding,light,motorcycle,57,Female
+4/2/2002,9:57 PM,32.890704,35.40461,Maghār,sunny,dry,medium,weather conditions,heavy,sedan,19,Female
+12/5/2010,6:26 PM,29.67832,109.144929,Gaoleshan,sunny,dry,high,weather conditions,moderate,motorcycle,89,Female
+4/9/2001,9:07 PM,24.874132,118.675675,Qianzhou,sunny,icy,low,distracted driving,heavy,SUV,29,Female
+10/25/2003,4:41 PM,-7.590458,109.1077389,Keleng,sunny,wet,medium,speeding,heavy,sedan,49,Female
+9/20/2003,2:56 PM,11.5358447,124.4553581,Biliran,sunny,icy,high,distracted driving,moderate,SUV,23,Male
+12/7/2004,11:35 AM,-26.2396883,28.3217259,Heidelberg,snowy,wet,low,distracted driving,light,truck,47,Male
+6/21/2006,9:14 AM,16.237173,-61.528372,Pointe-à-Pitre,snowy,dry,high,distracted driving,moderate,motorcycle,73,Female
+3/22/2018,10:29 AM,-25.2076148,25.6805868,Lobatse,cloudy,dry,high,distracted driving,heavy,SUV,90,Female
+4/28/2009,10:21 AM,41.561877,108.925428,Bayan Hure,rainy,icy,medium,distracted driving,moderate,motorcycle,25,Female
+9/1/2013,9:19 PM,-34.8234058,-58.187517,General Belgrano,snowy,snowy,low,distracted driving,moderate,SUV,77,Female
+5/7/2022,8:24 AM,-7.1143481,-78.8226909,San Pablo,cloudy,icy,high,distracted driving,light,truck,19,Male
+12/16/2017,8:09 PM,-20.6405825,-65.2070534,Camargo,sunny,icy,low,weather conditions,moderate,sedan,97,Male
+10/23/2005,6:11 PM,39.982718,117.078294,Sanhe,sunny,wet,high,weather conditions,moderate,truck,71,Female
+10/15/2005,8:02 PM,41.2681051,-8.308171,Engenho,cloudy,dry,high,weather conditions,light,SUV,96,Female
+8/24/2019,2:38 AM,50.667396,3.0751792,Marcq-en-Barœul,cloudy,wet,medium,distracted driving,moderate,SUV,19,Male
+4/6/2004,3:29 AM,6.7205676,11.2580472,Gembu,cloudy,snowy,high,speeding,heavy,SUV,54,Male
+3/30/2006,7:17 AM,13.60422,44.98578,Ḩabīl al Jabr,snowy,icy,high,weather conditions,heavy,SUV,52,Female
+10/7/2011,2:55 AM,61.228665,14.040054,Älvdalen,rainy,wet,low,distracted driving,light,SUV,33,Bigender
+1/15/2006,11:32 PM,11.171783,-70.620384,Capatárida,sunny,snowy,medium,weather conditions,light,truck,21,Female
+9/3/2017,4:17 PM,5.623505,10.2544044,Mbouda,sunny,dry,high,weather conditions,light,motorcycle,21,Male
+4/2/2012,12:06 PM,-7.811056,108.438797,Sindangsari,cloudy,snowy,medium,speeding,heavy,sedan,66,Genderqueer
+4/13/2021,3:03 PM,47.2457073,-122.4773432,Tacoma,snowy,snowy,low,speeding,moderate,SUV,64,Female
+8/6/2013,4:30 AM,16.4543173,97.6439611,Mawlamyine,sunny,icy,medium,distracted driving,light,SUV,43,Male
+4/12/2021,3:25 AM,37.489877,117.509921,Huimin,sunny,icy,high,speeding,light,sedan,92,Polygender
+7/14/2000,8:57 PM,15.4659235,120.6847286,Amucao,snowy,wet,low,speeding,light,motorcycle,50,Female
+9/16/2015,5:27 AM,8.070619,22.3948737,Ouadda,sunny,snowy,high,distracted driving,light,SUV,53,Female
+11/17/2022,3:56 AM,-12.2179111,-76.5148607,Olleros,cloudy,snowy,high,weather conditions,moderate,motorcycle,23,Female
+2/14/2012,5:34 AM,54.2866841,48.2335118,Ulyanovsk,rainy,icy,high,distracted driving,light,truck,42,Female
+1/17/2016,7:14 AM,30.723066,121.245717,Yaqian,rainy,wet,high,distracted driving,light,motorcycle,31,Male
+6/19/2012,7:41 AM,52.1565353,46.9612179,Sennoy,sunny,wet,low,distracted driving,heavy,sedan,91,Male
+10/10/2015,3:08 AM,56.166667,107.433333,Magistral’nyy,snowy,wet,medium,speeding,heavy,SUV,96,Female
+8/30/2003,1:57 PM,22.3825415,-80.847466,Aguada de Pasajeros,rainy,dry,medium,speeding,heavy,motorcycle,63,Male
+4/25/2015,4:29 AM,-6.906714,-78.25705,Sorochuco,cloudy,dry,medium,weather conditions,light,sedan,87,Female
+2/5/2012,5:04 PM,65.1047244,17.1227163,Storuman,sunny,snowy,low,speeding,light,truck,84,Female
+11/4/2007,8:49 AM,-3.7300232,-40.9926511,Tianguá,sunny,snowy,low,weather conditions,heavy,sedan,56,Male
+12/9/2000,9:25 PM,8.7833709,126.3020575,Marihatag,rainy,icy,high,weather conditions,moderate,sedan,92,Female
+5/12/2015,12:48 PM,62.2600127,17.3781406,Kvissleby,snowy,snowy,low,weather conditions,light,sedan,82,Male
+2/18/2013,2:43 AM,14.3839328,121.050126,Santo Niño,sunny,snowy,high,speeding,light,truck,18,Female
+12/30/2006,11:37 PM,-26.73333,-60.61667,Napenay,rainy,wet,medium,weather conditions,moderate,sedan,39,Genderfluid
+10/14/2021,10:58 AM,45.3579767,17.7640023,Jakšić,rainy,wet,high,speeding,heavy,truck,90,Male
+4/30/2015,4:51 PM,-18.9201331,29.8236554,Kwekwe,snowy,wet,medium,speeding,light,SUV,72,Polygender
+10/6/2007,9:51 PM,9.88293,-85.529061,Sámara,cloudy,icy,high,weather conditions,moderate,SUV,66,Male
+6/3/2004,6:19 AM,33.9352916,133.0604733,Shin’ichi,sunny,wet,low,speeding,light,motorcycle,27,Male
+1/31/2006,1:06 PM,39.2752729,118.4500421,Longzui,snowy,icy,high,speeding,light,SUV,62,Male
+4/17/2014,10:32 AM,0.2343005,-78.2610672,Otavalo,cloudy,dry,medium,weather conditions,heavy,truck,62,Male
+11/5/2003,9:26 AM,52.8861365,-118.0572366,Jasper Park Lodge,cloudy,dry,medium,distracted driving,heavy,motorcycle,20,Male
+7/12/2001,8:41 AM,27.508898,119.582263,Pandi,snowy,wet,medium,speeding,moderate,SUV,47,Male
+5/26/2020,9:19 PM,35.8561719,129.2247477,Kyonju,rainy,icy,medium,speeding,moderate,SUV,18,Female
+9/18/2012,10:25 AM,48.8383589,2.6618245,Marne-la-Vallée,rainy,wet,low,weather conditions,light,truck,41,Male
+4/6/2021,10:40 PM,7.3442714,125.0950286,Guiset East,sunny,icy,low,speeding,light,sedan,58,Female
+5/10/2019,7:08 PM,29.116031,112.567886,Sijihong,sunny,snowy,low,speeding,light,motorcycle,98,Female
+2/19/2021,10:20 AM,-33.2827093,-70.879328,Lampa,cloudy,wet,high,speeding,light,truck,95,Male
+1/7/2014,1:12 AM,48.659828,102.625198,Hüremt,cloudy,wet,high,weather conditions,light,truck,96,Female
+3/19/2015,4:06 PM,41.307852,-8.3648654,Eiriz,snowy,snowy,high,weather conditions,light,sedan,20,Female
+8/20/2006,6:54 AM,-7.2578991,107.8632023,Sinargalih,rainy,wet,medium,weather conditions,moderate,sedan,89,Female
+10/22/2003,2:47 AM,-6.9955768,112.2950314,Kanugrahan,snowy,dry,medium,speeding,moderate,motorcycle,99,Male
+3/4/2000,11:22 PM,32.30798,35.16593,Bazzāryah,snowy,dry,low,distracted driving,moderate,truck,78,Female
+1/21/2015,11:51 AM,-9.62074,119.56671,Galubakul,sunny,icy,high,speeding,heavy,motorcycle,66,Male
+7/27/2013,10:15 PM,5.3599517,-4.0082563,Abidjan,cloudy,dry,high,distracted driving,heavy,truck,97,Female
+3/2/2019,2:43 PM,45.9402271,15.4773182,Leskovec pri Krškem,sunny,snowy,low,distracted driving,moderate,motorcycle,95,Male
+7/6/2002,4:36 AM,50.9249111,15.2294387,Nové Město pod Smrkem,cloudy,wet,medium,weather conditions,light,sedan,38,Female
+8/24/2009,10:59 AM,29.3332984,48.0158927,Ḩawallī,cloudy,wet,high,speeding,heavy,truck,66,Female
+4/20/2003,6:53 PM,40.7400016,-73.9800078,New York City,sunny,wet,medium,speeding,heavy,SUV,97,Female
+1/12/2000,11:27 PM,6.3324473,7.605638,Mberubu,cloudy,dry,low,weather conditions,light,motorcycle,64,Male
+1/29/2019,7:43 PM,50.6658627,15.0898596,Hodkovice nad Mohelkou,sunny,wet,medium,weather conditions,heavy,motorcycle,96,Polygender
+10/19/2007,9:58 AM,39.884007,116.318712,Huajie,rainy,snowy,medium,speeding,heavy,sedan,60,Male
+3/17/2016,3:09 PM,49.2389409,-121.7658827,Agassiz,sunny,snowy,high,speeding,light,truck,87,Male
+11/20/2013,10:34 PM,48.966667,96.783333,Hödrögö,sunny,wet,high,weather conditions,light,SUV,71,Female
+12/29/2005,10:39 PM,51.3303754,12.40504,Leipzig,snowy,icy,medium,speeding,heavy,motorcycle,78,Male
+10/16/2002,6:55 AM,16.2588381,103.5668302,Kamalasai,snowy,icy,low,distracted driving,light,motorcycle,35,Male
+1/19/2003,6:56 PM,-34.5838708,-58.4160621,General Arenales,sunny,wet,high,distracted driving,light,sedan,77,Female
+3/12/2018,6:03 PM,40.1271927,-8.8576516,São Pedro,cloudy,snowy,low,speeding,moderate,motorcycle,30,Female
+12/8/2009,3:37 PM,-8.0670006,111.907307,Bago,rainy,icy,high,distracted driving,light,SUV,99,Female
+5/20/2018,10:24 AM,-7.0271791,113.6293916,Nangger,snowy,wet,low,distracted driving,moderate,truck,94,Male
+7/3/2005,7:06 PM,49.1919498,-123.9681079,Nanmo,sunny,snowy,low,distracted driving,moderate,sedan,71,Male
+1/15/2019,12:18 AM,43.5661719,43.4895256,Shalushka,rainy,snowy,high,weather conditions,heavy,sedan,73,Female
+12/1/2007,2:09 AM,5.4238154,-75.8185314,Riosucio,cloudy,dry,medium,speeding,heavy,SUV,97,Male
+4/24/2007,1:37 AM,13.71216,45.30318,Raşad,cloudy,dry,low,speeding,moderate,truck,42,Female
+8/18/2021,6:52 PM,37.510549,118.325556,Shengli,cloudy,icy,high,weather conditions,heavy,truck,23,Male
+1/23/2003,11:34 PM,37.031485,118.254644,Xingfu,rainy,icy,low,distracted driving,heavy,motorcycle,98,Female
+2/27/2012,2:05 AM,-5.4430889,-35.8716137,João Câmara,cloudy,dry,high,speeding,light,motorcycle,27,Male
+9/24/2016,1:24 AM,13.2551041,-59.5743195,Greenland,rainy,wet,medium,distracted driving,moderate,sedan,21,Female
+5/22/2004,3:57 PM,40.767544,114.886335,Zhanghekou,sunny,icy,high,weather conditions,light,truck,47,Male
+3/14/2000,2:50 PM,43.4945737,5.8978018,Paris 08,rainy,snowy,high,speeding,heavy,motorcycle,80,Male
+6/1/2007,6:27 PM,-15.5404411,-47.3374297,Formosa,sunny,dry,medium,weather conditions,heavy,motorcycle,87,Male
+11/24/2002,1:11 AM,-2.9062039,114.6905436,Marabahan,snowy,wet,low,speeding,moderate,SUV,68,Male
+10/23/2006,11:46 AM,24.749307,103.271467,Shanglian,sunny,wet,medium,speeding,heavy,truck,45,Female
+2/12/2000,11:28 PM,-32.93645,-68.8733205,Chimbas,rainy,icy,low,weather conditions,light,sedan,87,Male
+7/16/2019,11:39 AM,-6.1841954,106.8310178,Jalinan,cloudy,dry,medium,weather conditions,heavy,motorcycle,41,Male
+4/15/2003,9:34 PM,-8.3841,123.2415,Riangwale,rainy,dry,medium,weather conditions,heavy,truck,92,Female
+10/23/2001,5:59 AM,11.6932207,-84.4540213,Nueva Guinea,rainy,snowy,medium,distracted driving,moderate,sedan,99,Male
+7/22/2022,1:41 AM,4.5775693,28.3987842,Yambio,sunny,dry,high,weather conditions,heavy,truck,74,Female
+6/3/2012,1:19 AM,-6.8546403,107.4293388,Cilimus Kulon,sunny,snowy,medium,speeding,heavy,truck,77,Male
+10/1/2002,8:28 AM,42.1023509,20.2325862,Shënmëri,sunny,dry,medium,distracted driving,moderate,SUV,30,Male
+10/10/2014,5:42 PM,59.2255188,38.5125708,Sheksna,rainy,dry,medium,weather conditions,moderate,sedan,35,Male
+3/31/2013,5:18 AM,32.3622982,120.5285929,Gaoshi,cloudy,snowy,medium,distracted driving,moderate,truck,29,Female
+2/5/2022,3:43 AM,33.207199,-87.5482025,Tuscaloosa,snowy,snowy,high,speeding,moderate,truck,89,Female
+6/29/2003,5:57 PM,39.8494257,-8.8416426,Várzeas,snowy,dry,high,speeding,heavy,truck,67,Genderfluid
+8/11/2022,12:34 PM,59.943312,30.3512378,Makarov,cloudy,dry,low,weather conditions,light,truck,31,Male
+5/11/2018,9:34 AM,-6.1130137,106.1610343,Cimuncang,sunny,snowy,high,speeding,moderate,SUV,87,Male
+8/26/2010,2:10 AM,34.5724074,107.0351315,Shuangbaiyang,sunny,dry,low,speeding,heavy,SUV,66,Female
+5/24/2020,1:33 PM,-9.5974717,124.4863567,Noemuti,cloudy,snowy,low,weather conditions,heavy,sedan,21,Female
+6/5/2009,2:31 AM,-7.0631844,107.7843483,Cipaku,rainy,snowy,medium,distracted driving,light,truck,65,Bigender
+7/3/2012,9:04 PM,38.9492606,-9.1068816,Santiago dos Velhos,rainy,snowy,low,distracted driving,moderate,sedan,85,Male
+5/15/2018,2:45 AM,59.65089,67.412319,Kondinskoye,rainy,snowy,high,distracted driving,light,truck,66,Male
+3/24/2012,3:12 AM,59.6794853,18.67843,Norrtälje,cloudy,icy,medium,weather conditions,heavy,SUV,49,Female
+7/25/2015,7:10 PM,34.144801,-118.2563169,Glendale,snowy,wet,high,speeding,light,motorcycle,71,Male
+3/16/2011,9:29 PM,50.2609615,16.101507,Opočno,sunny,wet,medium,distracted driving,light,SUV,80,Male
+11/16/2014,3:23 AM,29.2997574,120.0339797,Zhaoxiang,cloudy,icy,low,speeding,light,truck,65,Female
+11/24/2019,6:25 AM,-7.7911198,-79.2197376,Chocope,sunny,icy,medium,speeding,heavy,motorcycle,78,Female
+3/2/2001,2:13 PM,28.074649,119.141473,Longquan,rainy,dry,high,distracted driving,moderate,sedan,51,Male
+6/26/2001,12:16 PM,-1.0706976,34.4752715,Migori,cloudy,dry,medium,weather conditions,heavy,SUV,83,Female
+2/22/2015,1:54 AM,9.8247812,-68.4397551,Macapo,sunny,dry,medium,speeding,moderate,sedan,26,Female
+9/7/2008,6:03 AM,25.941937,117.365052,Yong’an,snowy,wet,medium,distracted driving,light,motorcycle,86,Female
+6/2/2012,4:35 AM,32.113366,35.077465,Bidyā,cloudy,icy,high,speeding,moderate,motorcycle,39,Male
+3/25/2014,11:18 AM,29.2031708,25.5195451,Siwa Oasis,rainy,icy,low,weather conditions,moderate,truck,53,Male
+4/9/2001,6:00 AM,48.4713393,38.8134406,Alchevs’k,snowy,wet,low,distracted driving,heavy,motorcycle,74,Female
+12/9/2001,4:35 PM,23.7247599,108.8076195,Fangxi,rainy,dry,low,weather conditions,light,motorcycle,60,Female
+2/24/2021,2:50 PM,41.781418,82.502677,Kizil,snowy,snowy,medium,speeding,light,SUV,44,Genderfluid
+2/7/2011,6:37 PM,-7.9620331,111.4723041,Ngasinan,rainy,dry,medium,weather conditions,heavy,motorcycle,23,Female
+9/18/2001,3:58 PM,41.3009263,-95.8881542,Omaha,sunny,icy,low,weather conditions,heavy,motorcycle,37,Female
+7/31/2015,10:17 AM,21.357765,40.2782239,Al Hadā,cloudy,icy,medium,weather conditions,heavy,truck,40,Male
+12/26/2003,12:19 PM,47.9838092,-4.0325499,Quimper,rainy,snowy,high,weather conditions,light,motorcycle,66,Male
+11/4/2012,9:22 PM,-34.5204472,-58.5328734,Carlos Tejedor,sunny,icy,low,distracted driving,light,motorcycle,49,Female
+6/9/2000,2:17 AM,50.3250139,34.9100068,Chapayeve,rainy,dry,high,weather conditions,heavy,motorcycle,98,Male
+3/11/2020,5:34 PM,-23.1734868,-49.9783088,Jacarezinho,sunny,icy,medium,distracted driving,moderate,sedan,42,Female
+11/5/2001,10:18 AM,36.2469586,138.8138456,Kanuma,cloudy,snowy,high,speeding,heavy,motorcycle,39,Non-binary
+10/6/2014,5:22 AM,39.1314511,-9.0148912,Atouguia,rainy,wet,low,distracted driving,light,sedan,79,Male
+10/21/2014,12:28 AM,-7.1701665,108.3296983,Sukaraharja,cloudy,snowy,medium,distracted driving,moderate,SUV,92,Female
+8/16/2022,11:56 AM,33.8918998,35.5630426,Jdaidet el Matn,sunny,icy,high,distracted driving,heavy,SUV,50,Male
+8/30/2006,10:40 PM,0.5185303,25.2007728,Kisangani,snowy,icy,low,distracted driving,heavy,truck,53,Female
+7/7/2003,5:24 PM,31.2823103,121.5045889,Tongjing,cloudy,snowy,high,speeding,heavy,sedan,22,Male
+6/14/2010,1:36 AM,44.043297,129.359811,Hengdaohezi,sunny,icy,medium,speeding,moderate,sedan,53,Female
+2/20/2011,6:23 AM,8.189424,124.086692,Kauswagan,rainy,icy,medium,weather conditions,light,sedan,42,Female
+9/8/2018,10:24 AM,8.189424,124.086692,Kauswagan,sunny,icy,high,distracted driving,light,truck,79,Male
+6/15/2020,4:54 AM,-7.7766561,112.1579249,Darungan,rainy,wet,medium,weather conditions,heavy,truck,68,Female
+8/15/2006,1:58 AM,34.7671945,119.0790302,Sigou,sunny,icy,low,distracted driving,light,truck,71,Bigender
+11/3/2004,8:35 AM,-25.4021046,-49.1347813,Pinhais,snowy,dry,high,weather conditions,light,sedan,61,Male
+5/28/2006,6:13 PM,34.534829,109.088297,Gaoling,cloudy,icy,low,distracted driving,light,sedan,33,Female
+9/4/2020,11:35 PM,47.0203676,-68.1435063,Stockholm,rainy,dry,high,speeding,light,truck,43,Female
+11/10/2001,6:07 PM,39.5245194,-8.1915991,Sentieiras,rainy,icy,medium,weather conditions,moderate,motorcycle,46,Genderfluid
+6/18/2021,11:42 PM,10.68825,8.956989,Kari,sunny,icy,low,speeding,moderate,motorcycle,73,Male
+11/1/2017,8:12 AM,12.4315534,-86.8722146,León,rainy,dry,low,weather conditions,heavy,SUV,60,Male
+4/10/2020,7:54 PM,45.478943,42.1414011,Trunovskoye,snowy,snowy,medium,weather conditions,moderate,sedan,22,Male
+1/10/2010,3:17 PM,43.5963366,5.4044268,Aix-en-Provence,sunny,icy,high,weather conditions,light,SUV,27,Female
+9/29/2002,4:58 AM,-9.5295,119.2674,Watulabara,rainy,wet,high,speeding,moderate,sedan,72,Male
+5/2/2014,5:03 AM,52.1466159,23.3386501,Rokitno,sunny,icy,low,speeding,moderate,motorcycle,27,Female
+3/25/2019,12:34 AM,23.3794116,104.2268717,Tangba,snowy,snowy,low,speeding,light,SUV,61,Male
+10/28/2014,6:09 AM,41.6270289,-8.4553604,Cruzeiro,snowy,wet,high,weather conditions,light,sedan,31,Male
+8/17/2017,4:01 PM,19.4102526,-99.0073673,Benito Juarez,cloudy,dry,medium,weather conditions,light,sedan,69,Male
+4/25/2018,7:57 AM,18.1741581,-78.0295273,Bluefields,snowy,dry,high,weather conditions,light,SUV,75,Male
+7/26/2000,1:48 AM,-5.7301845,105.6837789,Riang Tengah,cloudy,icy,medium,weather conditions,heavy,motorcycle,35,Female
+10/3/2006,8:55 PM,44.2006496,43.4273768,Podgornaya,snowy,icy,low,speeding,heavy,sedan,41,Male
+7/12/2020,6:31 AM,5.9840985,116.0761121,Kota Kinabalu,sunny,dry,medium,weather conditions,moderate,sedan,19,Male
+8/23/2019,2:55 PM,49.5873403,20.809162,Kamionka Wielka,cloudy,icy,low,speeding,heavy,SUV,67,Male
+11/14/2017,11:49 AM,25.313443,117.279653,Suban,snowy,wet,low,weather conditions,moderate,SUV,25,Female
+7/25/2017,10:21 PM,-5.5944574,-78.7841007,San Agustin,rainy,snowy,high,speeding,moderate,sedan,40,Polygender
+8/28/2002,2:36 PM,52.0008866,20.6716007,Żabia Wola,cloudy,wet,low,weather conditions,light,truck,90,Female
+3/9/2009,2:01 AM,25.489999,103.796167,Qijing,sunny,wet,high,distracted driving,moderate,truck,19,Female
+2/6/2004,8:50 AM,55.10013,-105.28422,La Ronge,snowy,dry,medium,weather conditions,moderate,sedan,20,Male
+5/8/2016,9:46 PM,38.416663,112.734174,Xinzha,sunny,icy,medium,distracted driving,heavy,motorcycle,23,Non-binary
+6/25/2018,12:26 AM,23.04421,112.677965,Xiangang,rainy,wet,high,distracted driving,light,motorcycle,65,Female
+7/27/2017,1:59 PM,-27.284815,-54.198107,El Soberbio,snowy,wet,medium,speeding,moderate,SUV,76,Female
+6/7/2011,11:10 AM,4.974252,-74.291386,San Francisco,rainy,icy,medium,weather conditions,light,motorcycle,92,Female
+9/11/2014,1:22 AM,40.7886028,-81.4251512,Canton,cloudy,snowy,medium,distracted driving,moderate,motorcycle,39,Male
+7/2/2015,7:00 PM,-8.7611605,-63.9004303,Porto Velho,snowy,icy,high,speeding,heavy,motorcycle,29,Female
+11/1/2002,1:34 AM,53.2856154,15.2926343,Suchań,cloudy,dry,medium,weather conditions,light,SUV,73,Female
+10/27/2009,1:49 AM,27.0522919,89.5756987,Tsimasham,cloudy,icy,medium,distracted driving,heavy,sedan,94,Male
+1/11/2007,1:52 PM,15.787156,104.1478667,Chumphon Buri,sunny,wet,medium,weather conditions,light,sedan,58,Female
+5/19/2017,2:03 AM,23.07555,112.007814,Liudu,sunny,snowy,low,distracted driving,moderate,truck,69,Female
+5/23/2015,9:12 AM,40.0820173,113.2828702,Yunzhong,sunny,dry,high,speeding,heavy,sedan,34,Female
+9/3/2011,9:12 AM,28.112525,112.989854,Tianxin,sunny,dry,medium,speeding,heavy,sedan,88,Male
+6/3/2018,3:09 PM,50.6162099,33.8468153,Lypova Dolyna,rainy,snowy,high,weather conditions,light,SUV,95,Male
+12/26/2014,2:35 PM,54.7288441,37.5438564,Rozhdestveno,sunny,icy,low,speeding,light,sedan,84,Female
+7/21/2013,8:37 PM,35.7029747,53.3420351,Mahdishahr,sunny,snowy,low,weather conditions,heavy,sedan,44,Non-binary
+11/17/2019,4:58 PM,39.9041999,116.4073963,Beixiang,sunny,dry,high,distracted driving,heavy,truck,87,Male
+7/9/2008,3:31 PM,18.2886378,-99.4526826,Lazaro Cardenas,cloudy,wet,high,speeding,light,truck,76,Male
+9/8/2022,8:24 AM,-26.8039789,-48.6489134,Penha,rainy,snowy,medium,distracted driving,heavy,sedan,37,Male
+5/19/2002,3:03 PM,37.22,-121.86,San Jose,rainy,snowy,medium,weather conditions,moderate,truck,78,Female
+6/6/2004,1:31 PM,-8.5764876,115.2164037,Banjar Parekan,cloudy,dry,high,speeding,heavy,truck,59,Female
+7/15/2008,7:20 PM,54.0728901,21.3852657,Kętrzyn,snowy,icy,low,speeding,light,truck,33,Female
+2/27/2016,2:27 AM,15.3098003,119.9994908,Bancal,sunny,wet,medium,speeding,heavy,SUV,79,Male
+10/18/2012,2:39 PM,56.0345586,14.0604538,Kristianstad,rainy,wet,high,speeding,light,motorcycle,20,Male
+12/18/2004,9:05 PM,6.6493305,6.3917654,Ubiaja,rainy,snowy,medium,distracted driving,moderate,sedan,60,Female
+12/13/2002,7:01 AM,9.3847618,-73.3001233,Chiriguaná,rainy,dry,high,speeding,moderate,motorcycle,99,Genderqueer
+2/8/2018,10:22 AM,50.1745286,12.6598918,Sokolov,sunny,dry,medium,weather conditions,moderate,sedan,19,Genderqueer
+12/18/2018,9:15 PM,-16.4359692,-71.6050339,Tiabaya,snowy,snowy,high,weather conditions,moderate,truck,32,Male
+3/23/2018,5:55 PM,31.558356,106.005046,Lanzhong,sunny,wet,medium,weather conditions,moderate,sedan,25,Agender
+8/29/2020,1:39 AM,59.2832062,17.9570059,Hägersten,cloudy,icy,low,weather conditions,light,sedan,31,Male
+2/7/2018,2:31 PM,42.741005,123.355701,Kangping,sunny,icy,low,speeding,light,SUV,85,Female
+12/24/2010,10:55 PM,-8.2484009,111.8151245,Besole,snowy,wet,high,speeding,heavy,SUV,93,Female
+6/8/2012,6:15 AM,39.1063109,-94.4439365,Independence,cloudy,icy,medium,distracted driving,moderate,sedan,67,Male
+9/30/2013,10:20 PM,16.7275474,103.7358277,Si Somdet,snowy,dry,low,weather conditions,heavy,sedan,78,Female
+5/4/2009,12:03 AM,13.0883907,-85.9993997,Jinotega,sunny,icy,low,speeding,light,motorcycle,96,Female
+1/19/2002,6:39 PM,42.4865907,26.5331057,Yambol,cloudy,snowy,high,weather conditions,moderate,sedan,29,Female
+10/2/2001,8:33 AM,35.8439572,136.1916906,Hino,snowy,wet,low,weather conditions,heavy,truck,87,Male
+12/11/2005,4:33 AM,-1.5697615,110.5215459,Ketapang,rainy,snowy,high,speeding,heavy,truck,51,Male
+6/4/2013,5:35 PM,-8.1553145,111.8270486,Pakel,snowy,icy,low,distracted driving,light,motorcycle,33,Female
+10/16/2015,7:29 PM,31.806293,35.109193,Abū Ghaush,snowy,icy,high,distracted driving,moderate,truck,89,Female
+5/7/2007,6:52 AM,52.5077777,5.4757709,Lelystad,rainy,wet,high,weather conditions,moderate,SUV,69,Bigender
+1/7/2001,4:35 AM,-7.7955645,108.291137,Kalapagenep,snowy,icy,medium,distracted driving,heavy,SUV,34,Male
+10/21/2022,8:19 PM,58.9482486,23.5370533,Haapsalu,rainy,wet,low,weather conditions,light,sedan,43,Male
+4/27/2021,8:49 PM,51.7354275,55.0063279,Suvorovskaya,rainy,wet,low,speeding,light,sedan,100,Male
+3/1/2000,5:58 AM,39.993178,116.468427,Wangjing,sunny,snowy,medium,speeding,moderate,motorcycle,97,Genderqueer
+4/17/2001,12:55 AM,14.6214687,-90.8066537,Parramos,rainy,snowy,low,distracted driving,heavy,truck,90,Female
+4/2/2001,4:43 AM,55.7242814,37.1853286,Rublëvo,sunny,dry,low,distracted driving,light,truck,44,Male
+9/2/2009,4:01 AM,32.7668648,-7.5057737,Guisser,sunny,wet,low,speeding,moderate,truck,38,Male
+8/18/2017,8:22 AM,-7.604976,112.775101,Bangil,sunny,snowy,low,distracted driving,light,sedan,48,Female
+10/2/2021,8:26 AM,41.9502131,-8.5304169,Porta,sunny,icy,medium,speeding,moderate,SUV,96,Female
+8/10/2008,5:49 PM,-21.9221397,-50.7317774,Bastos,rainy,icy,low,distracted driving,heavy,sedan,80,Female
+12/25/2017,7:00 PM,-34.990888,138.574391,Adelaide Mail Centre,cloudy,icy,high,weather conditions,light,SUV,29,Male
+1/19/2001,2:59 AM,5.0792613,-75.4111644,Manizales,rainy,dry,high,speeding,light,SUV,64,Female
+5/1/2006,4:12 AM,22.7694444,113.6216667,Zhujiang,sunny,snowy,medium,distracted driving,light,truck,87,Male
+1/4/2012,1:56 AM,5.9779631,-0.0886948,Akropong,rainy,dry,high,distracted driving,heavy,SUV,20,Male
+6/28/2005,5:34 AM,45.31,-93.79,Monticello,cloudy,dry,low,weather conditions,moderate,sedan,47,Male
+2/27/2020,12:52 AM,44.326388,85.619416,Shawan,snowy,dry,low,weather conditions,moderate,SUV,75,Male
+9/18/2012,2:38 AM,7.5273576,125.6239227,Santo Tomas,cloudy,dry,low,distracted driving,moderate,motorcycle,52,Female
+1/6/2001,9:46 AM,38.7655253,-9.3448465,Albarraque,cloudy,dry,low,distracted driving,heavy,truck,76,Female
+5/1/2013,4:42 PM,-7.2026914,108.1013637,Kiarajangkung,rainy,icy,medium,speeding,moderate,SUV,81,Female
+7/6/2000,10:12 PM,32.152799,35.04529,Kafr Thulth,cloudy,wet,high,distracted driving,heavy,truck,50,Female
+5/8/2007,1:56 AM,26.1372068,68.2667265,Sakrand,rainy,icy,medium,distracted driving,light,motorcycle,20,Male
+11/20/2019,3:16 PM,18.2760947,-77.1168753,Moneague,cloudy,dry,low,distracted driving,light,sedan,82,Male
+1/17/2015,2:33 AM,41.3715365,-8.7162646,Touguinha,sunny,snowy,low,distracted driving,moderate,sedan,50,Non-binary
+1/24/2000,1:54 AM,14.3631814,48.9820259,Burūm,rainy,snowy,high,speeding,light,truck,55,Male
+8/16/2022,5:53 PM,14.347522,120.9245309,Sabang,snowy,snowy,low,weather conditions,light,motorcycle,96,Female
+6/25/2002,7:21 PM,60.1475268,30.5168633,Toksovo,cloudy,snowy,high,distracted driving,light,SUV,93,Male
+10/18/2005,4:33 PM,59.326934,14.524558,Karlskoga,sunny,snowy,medium,distracted driving,heavy,motorcycle,45,Female
+11/16/2014,9:37 PM,43.475292,43.61997,Vol’nyy Aul,cloudy,dry,low,distracted driving,moderate,SUV,18,Female
+2/19/2013,1:57 AM,22.358416,114.128354,Yinying,rainy,snowy,low,speeding,moderate,sedan,82,Male
+9/14/2022,2:54 AM,-22.573223,-47.1731269,Artur Nogueira,sunny,icy,high,speeding,moderate,SUV,42,Male
+11/16/2011,6:46 AM,44.4751299,34.1479155,Livadiya,sunny,snowy,low,speeding,heavy,SUV,48,Non-binary
+6/6/2014,5:14 AM,-6.9736661,110.4180162,Pandansari,cloudy,icy,low,speeding,light,truck,54,Male
+8/11/2004,2:14 AM,24.348178,113.151358,Shigutang,cloudy,icy,low,distracted driving,moderate,sedan,53,Female
+10/5/2002,10:19 PM,16.3274859,120.3660634,Agoo,sunny,dry,medium,weather conditions,light,sedan,38,Female
+1/16/2021,1:21 PM,-34.7569609,-58.3736215,Presidencia Roque Sáenz Peña,cloudy,icy,high,speeding,light,truck,94,Female
+5/18/2005,11:16 AM,-0.3915604,102.2862694,Airmolek,snowy,icy,low,distracted driving,moderate,sedan,53,Female
+11/10/2017,3:35 AM,-22.5284121,-43.7334089,Mendes,snowy,wet,low,speeding,light,SUV,95,Female
+1/31/2014,5:25 PM,34.7836044,113.6738442,Wujiao,cloudy,dry,medium,speeding,light,SUV,81,Female
+8/26/2016,8:25 AM,-7.5475962,110.2727965,Pagersari,rainy,icy,medium,weather conditions,light,truck,21,Male
+4/6/2000,3:31 AM,-8.0034823,112.7420274,Bokor,rainy,snowy,high,distracted driving,light,sedan,74,Female
+4/25/2009,9:08 AM,31.30275,121.389084,Shiqiaotou,snowy,wet,high,speeding,light,SUV,82,Male
+7/3/2021,9:18 PM,41.4578988,-8.5462667,Nine,rainy,dry,high,distracted driving,moderate,motorcycle,34,Female
+10/11/2002,6:57 AM,45.8209156,41.7473982,Pregradnoye,cloudy,icy,high,distracted driving,light,sedan,78,Male
+1/16/2008,7:21 PM,23.10848,-82.2474648,Guanabacoa,sunny,wet,medium,speeding,moderate,SUV,93,Female
+4/27/2007,7:34 AM,27.522069,116.336069,Shangyuan,snowy,dry,medium,weather conditions,light,sedan,96,Male
+12/19/2005,3:23 AM,52.842561,5.7187546,Almere Haven,cloudy,snowy,low,weather conditions,light,sedan,97,Female
+4/8/2010,4:04 AM,-8.1539,111.7051,Jajarkrajan,cloudy,wet,medium,weather conditions,light,SUV,34,Female
+9/7/2020,5:04 AM,-7.2030729,112.0237903,Sumberejo,cloudy,wet,medium,weather conditions,light,motorcycle,91,Male
+9/30/2010,3:33 AM,-6.8618504,111.971625,Borehbangle,rainy,snowy,medium,speeding,heavy,motorcycle,77,Male
+6/14/2004,7:34 PM,-31.3582685,-64.2371705,Los Cóndores,snowy,wet,medium,distracted driving,heavy,motorcycle,86,Male
+3/25/2006,3:58 PM,38.03,106.317671,Taizi,snowy,icy,medium,distracted driving,light,sedan,33,Male
+4/25/2019,2:04 PM,5.7806339,36.5715924,Jinka,cloudy,icy,high,distracted driving,moderate,SUV,78,Female
+3/6/2021,10:47 AM,34.0599302,-118.249786,Los Angeles,rainy,snowy,low,distracted driving,light,sedan,59,Male
+12/13/2021,4:28 AM,22.6875359,-82.2936293,Batabanó,rainy,dry,high,distracted driving,light,motorcycle,53,Male
+7/1/2019,8:02 PM,56.3615314,41.0836902,Novki,rainy,dry,high,speeding,light,truck,75,Male
+11/25/2016,3:03 AM,45.4651444,-74.0798679,Oka,snowy,icy,medium,speeding,heavy,truck,38,Male
+3/9/2012,6:51 AM,33.6722582,-4.6308305,Tazouta,snowy,wet,low,weather conditions,heavy,motorcycle,84,Male
+11/21/2006,11:20 AM,44.6380305,21.6773447,Golubac,snowy,icy,low,speeding,light,motorcycle,50,Female
+4/2/2021,7:33 AM,-7.0976672,109.0215438,Margasari,rainy,icy,high,speeding,light,sedan,79,Female
+11/22/2010,9:42 AM,56.495472,93.2782749,Sukhobuzimskoye,sunny,snowy,high,weather conditions,light,SUV,83,Male
+8/27/2019,3:01 PM,32.149961,34.8838788,Hod HaSharon,sunny,dry,medium,distracted driving,light,truck,64,Male
+12/14/2012,8:32 PM,37.177129,119.942275,Lezhu,sunny,wet,high,distracted driving,heavy,truck,89,Bigender
+6/16/2012,7:24 PM,-34.6761,-58.5404623,Formosa,cloudy,wet,high,weather conditions,light,sedan,24,Male
+3/28/2003,11:53 AM,54.8737338,83.000494,Slyudyanka,cloudy,dry,low,speeding,moderate,truck,38,Male
+4/18/2011,5:19 PM,16.7136708,103.3125299,Nong Kung Si,snowy,icy,low,weather conditions,light,sedan,56,Female
+10/22/2001,3:03 PM,13.3200851,101.1015323,Ban Bueng,rainy,dry,medium,speeding,heavy,truck,34,Male
+2/10/2007,6:00 AM,50.6906104,18.5510673,Pawonków,rainy,wet,medium,weather conditions,moderate,SUV,30,Female
+11/18/2015,10:04 AM,44.166512,79.999974,Zharkent,rainy,snowy,low,speeding,light,sedan,85,Female
+12/3/2005,11:32 PM,-1.5697615,110.5215459,Ketapang,rainy,snowy,high,speeding,heavy,SUV,78,Female
+5/28/2020,9:04 AM,60.2577358,24.3903505,Ristinummi,snowy,wet,high,weather conditions,heavy,truck,32,Polygender
+10/20/2016,8:22 PM,43.4945737,5.8978018,Paris 13,snowy,wet,high,weather conditions,moderate,sedan,38,Male
+7/1/2012,2:04 AM,35.057659,33.2419422,Ergates,snowy,snowy,low,distracted driving,light,sedan,37,Male
+6/19/2021,9:28 PM,38.950239,117.406384,Beizhakou,snowy,icy,high,weather conditions,moderate,motorcycle,31,Female
+10/12/2007,12:08 PM,49.9354529,18.9773045,Goczałkowice Zdrój,snowy,dry,medium,weather conditions,moderate,motorcycle,54,Female
+11/3/2000,11:36 PM,-6.936,112.8633,Karangasem Laok,sunny,dry,high,distracted driving,moderate,motorcycle,93,Male
+6/2/2018,8:32 PM,2.582523,-75.4498009,Hobo,cloudy,snowy,low,speeding,light,motorcycle,31,Female
+7/19/2015,7:07 PM,32.2048631,49.4453295,Qal‘eh-ye Khvājeh,snowy,snowy,low,distracted driving,light,SUV,93,Non-binary
+7/4/2009,11:26 AM,9.1914538,-10.1143176,Kissidougou,sunny,wet,high,distracted driving,heavy,truck,32,Genderfluid
+2/6/2003,9:48 AM,45.813177,9.2292909,Erba,snowy,icy,low,distracted driving,light,motorcycle,27,Male
+1/18/2021,3:16 PM,-15.7994139,-47.9222179,Brasília,cloudy,icy,low,speeding,light,SUV,68,Male
+5/23/2003,6:19 AM,50.7798051,15.8470487,Kowary,cloudy,wet,low,weather conditions,heavy,motorcycle,80,Genderqueer
+10/6/2015,2:44 AM,48.5966574,7.7744139,Strasbourg,cloudy,wet,medium,distracted driving,light,truck,71,Polygender
+9/29/2006,5:18 PM,4.524233,-74.356481,Granada,rainy,icy,low,distracted driving,heavy,SUV,53,Genderfluid
+12/8/2014,8:42 AM,37.429832,110.88907,Liulin,rainy,icy,low,distracted driving,moderate,SUV,18,Male
+12/24/2016,12:35 PM,-6.9467616,106.4729811,Karangpapak,sunny,snowy,medium,speeding,light,motorcycle,56,Male
+12/22/2004,11:53 AM,51.9138694,-8.1722173,Midleton,sunny,wet,low,weather conditions,light,motorcycle,47,Polygender
+10/8/2011,3:14 PM,43.8533322,25.9522679,Kresna,rainy,wet,high,distracted driving,heavy,motorcycle,78,Female
+6/18/2022,2:20 AM,34.289806,105.037225,Mozi,rainy,dry,low,distracted driving,heavy,sedan,42,Female
+8/3/2017,2:09 AM,-24.8763773,-54.9322782,Colonia Minga Porá,cloudy,dry,low,distracted driving,heavy,sedan,25,Female
+10/19/2006,2:51 PM,53.6944002,17.5569252,Chojnice,sunny,dry,low,speeding,moderate,motorcycle,79,Male
+6/25/2015,3:46 PM,-6.4761564,111.0400034,Krajan Alasdowo,sunny,snowy,medium,distracted driving,light,motorcycle,85,Female
+6/2/2020,9:23 AM,19.371561,110.104886,Tuncheng,snowy,dry,low,weather conditions,light,sedan,47,Male
+4/10/2011,2:34 PM,49.2484813,17.7516417,Hvozdná,cloudy,snowy,medium,speeding,moderate,motorcycle,85,Male
+4/30/2005,10:28 PM,34.7683548,134.8305397,Kakogawachō-honmachi,sunny,dry,high,distracted driving,heavy,sedan,33,Female
+10/9/2020,12:58 AM,41.0121335,-8.304667,Paraíso,snowy,wet,high,weather conditions,light,SUV,75,Female
+2/25/2007,4:06 AM,-10.1097495,123.8020033,Taklale,snowy,dry,low,speeding,moderate,SUV,36,Female
+9/13/2013,10:40 AM,31.975951,35.853029,Safi,sunny,dry,high,speeding,light,sedan,20,Female
+12/3/2010,12:25 AM,-15.2475119,-40.2509918,Itapetinga,snowy,dry,high,distracted driving,moderate,motorcycle,98,Male
+5/20/2017,10:01 PM,0.7788357,103.4627375,Urung,rainy,wet,low,speeding,heavy,SUV,77,Male
+11/11/2017,1:17 AM,40.1999522,-8.5031422,Taveiro,sunny,snowy,medium,speeding,light,motorcycle,48,Male
+8/7/2000,7:36 PM,40.6027503,22.9896482,Pylaía,cloudy,snowy,high,speeding,heavy,motorcycle,20,Agender
+8/13/2012,10:27 PM,59.277977,15.211673,Örebro,snowy,snowy,high,speeding,light,truck,86,Male
+11/3/2015,5:30 AM,36.9262849,-76.0203323,Virginia Beach,rainy,dry,low,distracted driving,heavy,motorcycle,38,Agender
+7/13/2021,3:12 PM,28.040993,120.658812,Oubei,rainy,icy,high,speeding,heavy,sedan,86,Female
+3/4/2010,6:04 AM,-6.2608384,106.8207875,Kemang,snowy,dry,medium,speeding,light,motorcycle,99,Female
+9/30/2002,7:53 PM,9.61666,124.301366,Garcia Hernandez,sunny,icy,low,weather conditions,moderate,sedan,67,Male
+8/16/2001,11:54 AM,9.4387872,-70.490794,Pampanito,sunny,wet,low,weather conditions,heavy,SUV,97,Male
+5/19/2005,12:50 PM,2.1883402,-76.2131474,La Argentina,rainy,icy,medium,speeding,heavy,motorcycle,50,Male
+4/24/2008,2:31 AM,-0.6059095,102.4151335,Pangkalan Kasai,sunny,icy,medium,distracted driving,light,motorcycle,89,Male
+11/26/2017,11:12 AM,49.0226636,17.7792323,Záhorovice,cloudy,dry,high,speeding,light,SUV,59,Male
+2/18/2005,1:59 AM,41.3009465,-8.1528902,Vinha,rainy,dry,medium,weather conditions,heavy,motorcycle,81,Male
+7/5/2001,2:28 AM,-7.6359993,114.0160937,Semiring,rainy,icy,high,speeding,heavy,motorcycle,40,Male
+1/14/2015,1:33 PM,57.7516519,12.898467,Borås,cloudy,dry,low,weather conditions,light,truck,70,Male
+10/4/2022,12:25 AM,-20.6670494,-42.8618635,Ábidos,rainy,icy,high,speeding,moderate,SUV,24,Male
+11/13/2016,2:16 PM,-8.59565,121.7252,Aelande,rainy,snowy,high,weather conditions,light,SUV,37,Male
+9/8/2015,12:51 AM,37.9058553,139.8418907,Iwakura,rainy,snowy,high,weather conditions,light,truck,30,Female
+9/15/2018,10:22 PM,40.8727365,-8.4664515,Vila Chã,rainy,dry,medium,speeding,light,SUV,61,Genderqueer
+8/12/2015,4:41 PM,-7.0431437,111.3679689,Banjarjo,rainy,snowy,low,distracted driving,light,sedan,75,Genderfluid
+11/27/2000,7:02 AM,32.388662,119.39402,Meiqi,snowy,snowy,medium,distracted driving,light,motorcycle,92,Male
+12/3/2003,5:29 AM,37.9904219,23.6583002,Agía Varvára,snowy,snowy,high,speeding,light,truck,40,Female
+1/9/2008,9:46 PM,57.0128795,35.9200308,Vasil’yevskiy Mokh,rainy,wet,low,weather conditions,heavy,motorcycle,29,Female
+12/7/2021,5:29 PM,21.5192887,109.170221,Lingdi,rainy,dry,low,distracted driving,moderate,sedan,65,Male
+8/14/2016,10:27 PM,43.800779,131.978812,Nikol’sk,snowy,icy,medium,weather conditions,moderate,SUV,42,Male
+9/12/2007,4:56 PM,20.6597358,-101.4750896,San Cristobal,rainy,icy,low,weather conditions,light,SUV,61,Genderfluid
+5/9/2002,5:35 PM,-6.9158535,111.8151245,Sidonganti,cloudy,dry,low,weather conditions,heavy,truck,59,Female
+5/29/2016,5:50 PM,26.244258,116.512887,Shibi,cloudy,wet,low,speeding,heavy,SUV,87,Male
+2/12/2019,11:49 PM,-20.9829904,-40.9990597,Itapemirim,sunny,wet,medium,weather conditions,light,SUV,43,Female
+10/5/2018,5:19 AM,52.8522051,23.0334561,Wyszki,snowy,icy,high,weather conditions,moderate,motorcycle,30,Male
+1/14/2021,5:37 PM,48.2824698,25.1584914,Stari Kuty,cloudy,dry,medium,speeding,light,truck,75,Male
+1/10/2021,10:35 AM,13.7931278,100.4993601,Bang Phlat,snowy,wet,medium,distracted driving,heavy,truck,82,Non-binary
+10/20/2004,7:15 PM,43.9071313,125.3462629,Ruihong,cloudy,icy,medium,weather conditions,moderate,SUV,23,Male
+5/30/2004,1:55 AM,44.9442659,20.2192192,Nova Pazova,snowy,wet,low,speeding,heavy,truck,56,Male
+5/29/2005,7:41 AM,-7.8169756,111.9790773,Pojok,sunny,snowy,low,distracted driving,light,motorcycle,44,Female
+4/19/2004,2:56 AM,-6.6772938,111.540868,Woro,sunny,dry,high,distracted driving,heavy,sedan,94,Male
+12/12/2002,5:41 PM,55.6354144,13.0577113,Arlöv,rainy,snowy,low,distracted driving,moderate,motorcycle,60,Female
+10/7/2014,9:25 PM,50.9218266,19.3568903,Kłomnice,cloudy,snowy,high,speeding,moderate,motorcycle,96,Female
+9/13/2017,11:38 PM,45.1905186,0.7423124,Trélissac,cloudy,snowy,medium,distracted driving,heavy,motorcycle,47,Female
+5/27/2000,1:05 PM,-17.6169957,177.4504888,Lautoka,rainy,snowy,low,speeding,heavy,SUV,66,Female
