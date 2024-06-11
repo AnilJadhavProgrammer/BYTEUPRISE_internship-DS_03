@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/AnilJadhavProgrammer/synthetic-accident-data-analysis.git
+    git clone https://github.com/AnilJadhavProgrammer/BYTEUPRISE_internship-DS_03
     cd synthetic-accident-data-analysis
     ```
 
