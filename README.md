@@ -1,4 +1,4 @@
-# Synthetic Accident Data Analysis
+# Accident Data Analysis
 
 This project performs exploratory data analysis (EDA) on it. The dataset includes various attributes related to accidents, such as location, weather conditions, road conditions, severity, and contributing factors. The analysis includes visualizing accident hotspots, distributions of weather and road conditions, and other relevant insights.
 
