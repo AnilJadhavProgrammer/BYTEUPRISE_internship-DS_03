@@ -62,10 +62,10 @@ To run this project locally, follow these steps:
 2. **Perform Data Analysis:**
     Run the analysis script to visualize and analyze the data:
     ```sh
-    python analyze_data.py
+    TASK 3.ipynb
     ```
     
-### `analyze_data.py`
+### `TASK 3.ipynb`
 
 This script loads the dataset and performs exploratory data analysis (EDA), generating various plots to visualize the data.
 
