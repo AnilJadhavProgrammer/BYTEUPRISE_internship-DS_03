@@ -5,6 +5,7 @@ This project generates a synthetic accident dataset and performs exploratory dat
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Project Highlight](#project highlight)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
