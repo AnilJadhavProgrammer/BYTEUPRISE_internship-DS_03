@@ -1,6 +1,6 @@
 # Synthetic Accident Data Analysis
 
-This project generates a synthetic accident dataset and performs exploratory data analysis (EDA) on it. The dataset includes various attributes related to accidents, such as location, weather conditions, road conditions, severity, and contributing factors. The analysis includes visualizing accident hotspots, distributions of weather and road conditions, and other relevant insights.
+This project performs exploratory data analysis (EDA) on it. The dataset includes various attributes related to accidents, such as location, weather conditions, road conditions, severity, and contributing factors. The analysis includes visualizing accident hotspots, distributions of weather and road conditions, and other relevant insights.
 
 ## Table of Contents
 
@@ -11,16 +11,14 @@ This project generates a synthetic accident dataset and performs exploratory dat
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
-The goal of this project is to generate a synthetic accident dataset and analyze it to uncover patterns and insights. This can help in understanding common factors contributing to accidents and identifying potential areas for improving road safety.
+The goal of this project is to analyze it to uncover patterns and insights. This can help in understanding common factors contributing to accidents and identifying potential areas for improving road safety.
 This project generates safety recommendations based on the analysis of a synthetic dataset of road accidents. By examining various conditions such as weather, road, time of day, and contributing factors, the function provides actionable insights to improve road safety.
 
 
 # Project Highlights
-- **Synthetic Dataset Generation:** Created a dataset with 1000 records representing road accidents.
 - **Exploratory Data Analysis (EDA):** Analyzed data to identify patterns and high-risk conditions.
 - **Safety Recommendations:** Generated recommendations to mitigate identified risks and improve road safety.
 
